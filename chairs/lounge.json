@@ -1,0 +1,47 @@
+{			
+	"Id":	"1015(G)",	
+	"Tag":	"Common",	
+	"ModelNo":	"RSC - 1015(G) 3 Seater",	
+	"Name":	"Ocean",	
+	"Type":	"Lounge 3 Seater",	
+	"ColorOptions":	"Black, Blue, Grey",	
+	"Armrest":	"PP Arms",	
+	"FrameMaterial":	"PP",	
+	"Seat Material":	"PP",	
+	"Url":	"/images/rsc1015g.png"	
+},			
+{			
+	"Id":	"1015(BL)",	
+	"Tag":	"Common",	
+	"ModelNo":	"RSC - 1015(BL) 2 Seater",	
+	"Name":	"Ocean",	
+	"Type":	"Lounge 2 Seater",	
+	"ColorOptions":	"Black, Blue, Grey",	
+	"Armrest":	"PP Arms",	
+	"FrameMaterial":	"PP",	
+	"SeatMaterial":	"PP",	
+	"Url":	"/images/rsc1015bl.png"	
+},			
+{			
+	"Id":	"1015(BLK)",	
+	"Tag":	"Common",	
+	"ModelNo":	"RSC - 1015(BLK) 1 Seater",	
+	"Name":	"Ocean",	
+	"Type":	"Lounge 1 Seater",	
+	"ColorOptions":	"Black, Blue, Grey",	
+	"Armrest":	"PP Arms",	
+	"FrameMaterial":	"PP",	
+	"SeatMaterial":	"PP",	
+	"Url":	"/images/rsc1015blk.png"	
+},			
+{			
+	"Id":	"1004",	
+	"Tag":	"Common",	
+	"ModelNo":	"RSC - 1004",	
+	"Name":	"Emerald",	
+	"Type":	"Lounge 3 Seater",	
+	"Fabric":	"Fabric Upholstery",	
+	"ColorOptions":	"Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",	
+	"FrameMaterial":	"Chrome Stand",	
+	"Url":	"/images/rsc1004.png"	
+}
