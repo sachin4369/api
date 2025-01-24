@@ -1,5 +1,6 @@
 {				
 	"Id":	"603",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 603",		
 	"Name":	"RSC - 603",		
 	"Type":	"Bliss Medium Back Visitor Chair",		
@@ -12,6 +13,7 @@
 },				
 {				
 	"Id":	"602",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 602",		
 	"Name":	"RSC - 602",		
 	"Type":	"Bliss Medium Back Chair",		
@@ -24,6 +26,7 @@
 },				
 {				
 	"Id":	"601",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 601",		
 	"Name":	"RSC - 601",		
 	"Type":	"Bliss High Back Chair",		
@@ -36,6 +39,7 @@
 },				
 {				
 	"Id":	"609",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 609",		
 	"Name":	"RSC - 609",		
 	"Type":	"Bliss Medium Back Visitor Chair",		
@@ -48,6 +52,7 @@
 },				
 {				
 	"Id":	"608",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 608",		
 	"Name":	"RSC - 608",		
 	"Type":	"Bliss Medium Back Chair",		
@@ -60,6 +65,7 @@
 },				
 {				
 	"Id":	"607",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 607",		
 	"Name":	"RSC - 607",		
 	"Type":	"Bliss High Back Chair",		
@@ -69,4 +75,4 @@
 	"BaseMaterial":	"PP Base",		
 	"ColorOptions":	"Black, Brown, Grey",		
 	"Url":	"/images/rsc607.png"		
-},				
+}
