@@ -1,5 +1,6 @@
 {				
 	"Id":	"1601",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1601",		
 	"Name":	"RSC - 1601",		
 	"Type":	"Director Chair",		
@@ -13,11 +14,12 @@
 },				
 {				
 	"Id":	"1602",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1602",		
 	"Name":	"RSC - 1602",		
 	"Type":	"Director Chair",		
 	"BodyColor":	"As Cushion",		
-	"Mechanism":	"T Mechanism",		
+	"Mechanism":	"Torsion Tilt Mechanism",		
 	"Armrest":	"PU & Cushion",		
 	"Fabric":	"Leatherite Upholstery",		
 	"BaseMaterial":	"Metal Chrome Base",		
@@ -26,11 +28,12 @@
 },				
 {				
 	"Id":	"1603",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1603",		
 	"Name":	"RSC - 1603",		
 	"Type":	"Director Chair",		
 	"BodyColor":	"As Cushion",		
-	"Mechanism":	"Tilting Mechanism",		
+	"Mechanism":	"Torsion Tilt Mechanism",		
 	"Armrest":	"PU & Cushion",		
 	"Fabric":	"Leatherite Upholstery",		
 	"BaseMaterial":	"Metal Chrome Base",		
@@ -39,11 +42,12 @@
 },				
 {				
 	"Id":	"1604",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1604",		
 	"Name":	"RSC - 1604",		
 	"Type":	"Director Chair",		
 	"BodyColor":	"As Cushion",		
-	"Mechanism":	"Tilting Mechanism",		
+	"Mechanism":	"Kneetilt Mechanism",		
 	"Armrest":	"Cushion",		
 	"Fabric":	"Leatherite Upholstery",		
 	"BaseMaterial":	"Metal Chrome Base",		
@@ -52,6 +56,7 @@
 },				
 {				
 	"Id":	"1605",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1605",		
 	"Name":	"RSC - 1605",		
 	"Type":	"Director Chair",		
@@ -65,6 +70,7 @@
 },				
 {				
 	"Id":	"1606",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1606",		
 	"Name":	"RSC - 1606",		
 	"Type":	"Director Chair",		
@@ -78,6 +84,7 @@
 },				
 {				
 	"Id":	"1607",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1607",		
 	"Name":	"RSC - 1607",		
 	"Type":	"Director Chair",		
@@ -91,6 +98,7 @@
 },				
 {				
 	"Id":	"1620",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1620",		
 	"Name":	"RSC - 1620",		
 	"Type":	"Director Chair",		
@@ -104,6 +112,7 @@
 },				
 {				
 	"Id":	"1609",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1609",		
 	"Name":	"RSC - 1609",		
 	"Type":	"Director Chair",		
@@ -117,6 +126,7 @@
 },				
 {				
 	"Id":	"1610",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1610",		
 	"Name":	"RSC - 1610",		
 	"Type":	"Director Chair",		
@@ -130,6 +140,7 @@
 },				
 {				
 	"Id":	"1611",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1611",		
 	"Name":	"RSC - 1611",		
 	"Type":	"Director Chair",		
@@ -143,6 +154,7 @@
 },				
 {				
 	"Id":	"1612",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1612",		
 	"Name":	"RSC - 1612",		
 	"Type":	"Director Chair",		
@@ -156,6 +168,7 @@
 },				
 {				
 	"Id":	"1613",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1613",		
 	"Name":	"RSC - 1613",		
 	"Type":	"Director Chair Low Back",		
@@ -169,9 +182,10 @@
 },				
 {				
 	"Id":	"1614",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1614",		
 	"Name":	"RSC - 1614",		
-	"Type":	"Director Chair Visitor Medium Back",		
+	"Type":	"Director Chair Visitor Low Back",		
 	"BodyColor":	"Chrome and Black",		
 	"Armrest":	"Metal & PU Pad",		
 	"Fabric":	"Leatherite Upholstery",		
@@ -181,6 +195,7 @@
 },				
 {				
 	"Id":	"1615",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1615",		
 	"Name":	"RSC - 1615",		
 	"Type":	"Director Chair",		
@@ -194,6 +209,7 @@
 },				
 {				
 	"Id":	"1616",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1616",		
 	"Name":	"RSC - 1616",		
 	"Type":	"Director Chair Low Back",		
@@ -207,9 +223,10 @@
 },				
 {				
 	"Id":	"1617",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1617",		
 	"Name":	"RSC - 1617",		
-	"Type":	"Director Chair Visitor Medium Back",		
+	"Type":	"Director Chair Visitor Low Back",		
 	"BodyColor":	"Chrome and Black",		
 	"Armrest":	"Metal & PU Pad",		
 	"Fabric":	"Leatherite Upholstery",		
@@ -219,6 +236,7 @@
 },				
 {				
 	"Id":	"231",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 231",		
 	"Name":	"RSC - 231",		
 	"Type":	"Director Chair",		
@@ -232,6 +250,7 @@
 },				
 {				
 	"Id":	"232",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 232",		
 	"Name":	"RSC - 232",		
 	"Type":	"Director Chair Low Back",		
@@ -245,6 +264,7 @@
 },				
 {				
 	"Id":	"1618",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1618",		
 	"Name":	"RSC - 1618",		
 	"Type":	"Director Chair Low Back Café Model",		
@@ -258,6 +278,7 @@
 },				
 {				
 	"Id":	"1619",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1619",		
 	"Name":	"RSC - 1619",		
 	"Type":	"Director Chair Low Back Café Model",		
@@ -271,6 +292,7 @@
 },				
 {				
 	"Id":	"1621",		
+	"Tag":	"Common",		
 	"ModelNo":	"RSC - 1621",		
 	"Name":	"RSC - 1621",		
 	"Type":	"Director Chair",		
@@ -281,4 +303,4 @@
 	"BaseMaterial":	"Metal Chrome Base",		
 	"ColorOptions":	"Black, Blue, Sky Blue, Brown, Grey, Red, Green",		
 	"Url":	"/images/rsc1621.png"		
-},				
+}
