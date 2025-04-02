@@ -1,16 +1,20 @@
-{		
-	"id":	"Zuma",
-	"Tag":	"Common",
-	"ModelNo":	"Double Zuma Desk",
-	"Type":	"Student Desk",
-	"Seat Material":	"PP Moulded Seat, Back & Table Top",
-	"Frame Material":	"Powder Coated Metal Stand"
-},		
-{		
-	"id":	"Zuma",
-	"Tag":	"Common",
-	"ModelNo":	"Single Zuma Desk",
-	"Type":	"Student Desk",
-	"Seat Material":	"PP Moulded Seat, Back & Table Top",
-	"Frame Material":	"Powder Coated Metal Stand"
-}
+[
+  {
+    "Id": "Zuma",
+    "Tag": "Common",
+    "ModelNo": "Double Zuma Desk",
+    "Name": "Double Zuma Desk",
+    "Type": "Student Desk",
+    "Material": "PP Moulded Seat, Back & Table Top",
+    "FrameMaterial": "Powder Coated Metal Stand"
+  },
+  {
+    "Id": "Zuma",
+    "Tag": "Common",
+    "ModelNo": "Single Zuma Desk",
+    "Name": "Single Zuma Desk",
+    "Type": "Student Desk",
+    "Material": "PP Moulded Seat, Back & Table Top",
+    "FrameMaterial": "Powder Coated Metal Stand"
+  }
+] 
