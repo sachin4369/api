@@ -1,43 +1,45 @@
-{				
-	"Id":	"726",		
-	"Tag":	"Common",		
-	"ModelNo":	"RSC - 726",		
-	"Name":	"RSC - 726",		
-	"Type":	"Student Chair",		
-	"ColorOptions":	"Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",		
-	"WritingPadMaterial":	"Wooden Pad",		
-	"FrameMaterial":	"Metal Powder Coated Frame",		
-	"Url":	"/images/rsc726.jpg"		
-},				
-{				
-	"Id":	"845(G)",		
-	"Tag":	"Common",		
-	"ModelNo":	"RSC - 845 (G)",		
-	"Name":	"RSC - 845 (G)",		
-	"Type":	"Student Chair",		
-	"ColorOptions":	"Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",		
-	"FrameMaterial":	"Metal Powder Coated Frame",		
-	"Url":	"/images/rsc845(g).jpg"		
-},				
-{				
-	"Id":	"845(B)",		
-	"Tag":	"Common",		
-	"ModelNo":	"RSC - 845 (B)",		
-	"Name":	"RSC - 845 (B)",		
-	"Type":	"Student Chair",		
-	"Color":	"Black",		
-	"FrameMaterial":	"Metal Powder Coated Frame",		
-	"ColorOptions":	"Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",		
-	"Url":	"/images/rsc845(b).jpg"		
-},				
-{				
-	"Id":	"845(W)",		
-	"Tag":	"Common",		
-	"ModelNo":	"RSC - 845 (W)",		
-	"Name":	"RSC - 845 (W)",		
-	"Type":	"Student Chair",		
-	"Color":	"White",		
-	"FrameMaterial":	"Metal Powder Coated Frame",		
-	"ColorOptions":	"Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",		
-	"Url":	"/images/rsc845(w).jpg"		
-}
+[
+ {
+  "Id": "726",
+  "Tag": "Common",
+  "ModelNo": "RSC - 726",
+  "Name": "RSC - 726",
+  "Type": "Student Chair",
+  "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
+  "WritingPadMaterial": "Wooden Pad",
+  "FrameMaterial": "Metal Powder Coated Frame",
+  "Url": "/images/rsc726.jpg"
+ },
+ {
+  "Id": "845(G)",
+  "Tag": "Common",
+  "ModelNo": "RSC - 845 (G)",
+  "Name": "RSC - 845 (G)",
+  "Type": "Student Chair",
+  "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
+  "FrameMaterial": "Metal Powder Coated Frame",
+  "Url": "/images/rsc845(g).jpg"
+ },
+ {
+  "Id": "845(B)",
+  "Tag": "Common",
+  "ModelNo": "RSC - 845 (B)",
+  "Name": "RSC - 845 (B)",
+  "Type": "Student Chair",
+  "Color": "Black",
+  "FrameMaterial": "Metal Powder Coated Frame",
+  "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
+  "Url": "/images/rsc845(b).jpg"
+ },
+ {
+  "Id": "845(W)",
+  "Tag": "Common",
+  "ModelNo": "RSC - 845 (W)",
+  "Name": "RSC - 845 (W)",
+  "Type": "Student Chair",
+  "Color": "White",
+  "FrameMaterial": "Metal Powder Coated Frame",
+  "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
+  "Url": "/images/rsc845(w).jpg"
+ }
+]
