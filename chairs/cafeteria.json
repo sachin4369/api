@@ -437,56 +437,9 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "N.A.",
-    "BaseMaterial": "Metal Chrome Base",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Turbo-Smart.jpg"
-  },
-  {
-    "Id": "Casper",
-    "Tag": "Common",
-    "ModelNo": "Casper Writing",
-    "Name": "Casper Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "N.A.",
-    "Fabric": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/CasperWriting.png"
-  },
-  {
-    "Id": "Aqua",
-    "Tag": "Common",
-    "ModelNo": "Aqua Writing",
-    "Name": "Aqua Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/AquaWriting.png"
-  },
-  {
-    "Id": "Camry",
-    "Tag": "Common",
-    "ModelNo": "Camry Beta",
-    "Name": "Camry Beta",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "PP",
-    "Url": "/images/CamryBeta.png"
-  },
-  {
-    "Id": "Dytto",
-    "Tag": "Common",
-    "ModelNo": "Dytto Lounge",
-    "Name": "Dytto Lounge",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/DyttoLounge.png"
   },
   {
     "Id": "Turbo",
@@ -495,7 +448,9 @@
     "Name": "Turbo-Gamma",
     "Type": "Cafeteria Revolving Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "N.A.",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Turbo-Gamma.jpg"
   },
@@ -506,7 +461,9 @@
     "Name": "Turbo-Zeta",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
+    "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Turbo-Zeta.jpg"
   },
@@ -516,6 +473,7 @@
     "ModelNo": "Trendy with Arms",
     "Name": "Trendy with Arms",
     "Type": "Cafeteria Chair",
+    "Armrest": "P.P. Arms",
     "ProductCareInstructions": "Wipe Clean",
     "SpecialFeature": "Lightweight",
     "FrameMaterial": "PP",
@@ -528,6 +486,7 @@
     "ModelNo": "Trendy without Arms",
     "Name": "Trendy without Arms",
     "Type": "Cafeteria Chair",
+    "Armrest": "P.P. Arms",
     "ProductCareInstructions": "Wipe Clean",
     "SpecialFeature": "Lightweight",
     "FrameMaterial": "PP",
@@ -555,6 +514,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "SpecialFeature": "Lightweight",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Era.jpg"
@@ -566,6 +526,8 @@
     "Name": "Lara Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Size": "Standard",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/LaraBeta.jpg"
@@ -577,6 +539,8 @@
     "Name": "Lara Delta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Size": "Standard",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Wooden & Metal",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Lara Delta.jpg"
@@ -588,6 +552,8 @@
     "Name": "Lara Alpha",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Size": "Standard",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/LaraAlpha.jpg"
@@ -599,6 +565,9 @@
     "Name": "Lara Smart",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Size": "Standard",
+    "HeightAdjuster": "Gas Lift",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/LaraSmart.jpg"
   },
@@ -609,6 +578,9 @@
     "Name": "Lara Gamma",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Size": "Standard",
+    "HeightAdjuster": "Gas Lift",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/LaraGamma.jpg"
   },
@@ -620,6 +592,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/ExcelAlpha.jpg"
@@ -632,6 +605,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/ExcelBeta.jpg"
@@ -644,6 +618,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Writing.jpg"
@@ -656,6 +631,7 @@
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Zeta.jpg"
@@ -668,6 +644,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Lounge.jpg"
@@ -680,6 +657,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "Size": "Standard",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Writing(WC).jpg"
@@ -692,6 +670,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "Size": "Standard",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Alpha(WC).jpg"
@@ -704,6 +683,7 @@
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "Size": "Standard",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Beta(WC).jpg"
@@ -716,6 +696,7 @@
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "Size": "Standard",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Zeta (WC).jpg"
@@ -727,6 +708,7 @@
     "Name": "Orco-Alpha",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
@@ -739,6 +721,7 @@
     "Name": "Orco-Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
@@ -751,7 +734,9 @@
     "Name": "Orco-Smart",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Orco-Smart.jpg"
   },
@@ -762,7 +747,9 @@
     "Name": "Orco-Gamma",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Orco-Gamma.jpg"
   },
@@ -773,6 +760,7 @@
     "Name": "Orco-Metal",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
@@ -785,7 +773,9 @@
     "Name": "Any-Smart",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Any-Smart.jpg"
   },
@@ -796,6 +786,7 @@
     "Name": "Any-Alpha",
     "Type": "Cafeteria Visitor Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
@@ -808,7 +799,9 @@
     "Name": "Any-Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Any-Beta.jpg"
   },
@@ -819,9 +812,24 @@
     "Name": "Any-Metal",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Any-Metal.jpg"
+  },
+  {
+    "Id": "Casper",
+    "Tag": "Common",
+    "ModelNo": "Casper Writing",
+    "Name": "Casper Writing",
+    "Type": "Cafeteria Chair",
+    "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
+    "Fabric": "N.A.",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Chrome Frame",
+    "Url": "/images/CasperWriting.png"
   },
   {
     "Id": "Casper",
@@ -830,9 +838,10 @@
     "Name": "Casper Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
-    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
     "Url": "/images/CasperBeta.png"
   },
   {
@@ -842,9 +851,10 @@
     "Name": "Casper Alpha",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
-    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
     "Url": "/images/CasperAlpha.png"
   },
   {
@@ -854,9 +864,10 @@
     "Name": "Casper Metal",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
-    "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Chrome Frame",
     "Url": "/images/CasperMetal.png"
   },
   {
@@ -866,9 +877,23 @@
     "Name": "Casper Zeta",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
+    "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Casper-Zeta.jpg"
+  },
+  {
+    "Id": "Aqua",
+    "Tag": "Common",
+    "ModelNo": "Aqua Writing",
+    "Name": "Aqua Writing",
+    "Type": "Cafeteria Chair",
+    "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Chrome Frame",
+    "Url": "/images/AquaWriting.png"
   },
   {
     "Id": "Aqua",
@@ -877,8 +902,8 @@
     "Name": "Aqua Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
     "Url": "/images/AquaBeta.png"
   },
   {
@@ -888,8 +913,8 @@
     "Name": "Aqua Alpha",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
     "Url": "/images/AquaAlpha.png"
   },
   {
@@ -899,7 +924,9 @@
     "Name": "Aqua-Gamma",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Aqua-Gamma.jpg"
   },
@@ -917,12 +944,23 @@
   {
     "Id": "Camry",
     "Tag": "Common",
+    "ModelNo": "Camry Beta",
+    "Name": "Camry Beta",
+    "Type": "Cafeteria Chair",
+    "ProductCareInstructions": "Wipe Clean",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
+    "Url": "/images/CamryBeta.png"
+  },
+  {
+    "Id": "Camry",
+    "Tag": "Common",
     "ModelNo": "Camry Alpha",
     "Name": "Camry Alpha",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
     "Url": "/images/CamryAlpha.png"
   },
   {
@@ -932,8 +970,8 @@
     "Name": "Camry Metal",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Chrome Frame",
     "Url": "/images/CamryMetal.png"
   },
   {
@@ -944,9 +982,20 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
-    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "PP",
     "Url": "/images/CamryAlphaA.png"
+  },
+  {
+    "Id": "Dytto",
+    "Tag": "Common",
+    "ModelNo": "Dytto Lounge",
+    "Name": "Dytto Lounge",
+    "Type": "Cafeteria Chair",
+    "ProductCareInstructions": "Wipe Clean",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Chrome Frame",
+    "Url": "/images/DyttoLounge.png"
   },
   {
     "Id": "Dytto",
@@ -966,6 +1015,7 @@
     "Name": "Dytto-Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Base Material": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dytto-Beta.jpg"
   },
@@ -976,6 +1026,7 @@
     "Name": "Dytto-Metal",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Base Material": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dytto-Metal.jpg"
   },
@@ -986,8 +1037,8 @@
     "Name": "Dytto Writing",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Chrome Frame",
     "Url": "/images/DyttoWriting.png"
   },
   {
@@ -997,8 +1048,8 @@
     "Name": "Dytto Zeta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "FrameMaterial": "Metal Powder Coated Stand",
     "Url": "/images/DyttoZeta.png"
   },
   {
@@ -1021,6 +1072,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sky-Beta.jpg"
   },
@@ -1043,7 +1095,9 @@
     "Name": "Sky-Gamma",
     "Type": "Cafeteria Revolving Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sky-Gamma.jpg"
   },
@@ -1054,7 +1108,9 @@
     "Name": "Sky-Smart",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sky-Smart.jpg"
   },
@@ -1076,6 +1132,7 @@
     "Name": "Neo-Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "Base Material": "PP",
     "ColorOptions": "<span className='flex space-x-2'><code class='w-4 h-4 bg-Grey-700 rounded'></code><code class='w-4 h-4 bg-blue-600 rounded'></code><code class='w-4 h-4 bg-green-500 rounded'></code><code class='w-4 h-4 bg-red-500 rounded'></code><code class='w-4 h-4 bg-orange-500 rounded'></code><code class='w-4 h-4 bg-yellow-300 rounded'></code><code class='w-4 h-4 bg-teal-500 rounded'></code></span>",
     "Url": "/images/Neo-Beta.jpg"
   },
@@ -1086,6 +1143,8 @@
     "Name": "Neo-Gamma",
     "Type": "Cafeteria Revolving Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Gamma.jpg"
   },
@@ -1096,6 +1155,8 @@
     "Name": "Neo-Smart",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
+    "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Smart.jpg"
   },
@@ -1106,7 +1167,9 @@
     "Name": "Neo-Sigma",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
+    "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Sigma.jpg"
   },
@@ -1116,7 +1179,9 @@
     "ModelNo": "Web with Arms",
     "Name": "Web with Arms",
     "Type": "Cafeteria Chair",
+    "Armrest": "P.P. Arms",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/WebwithArms.jpg"
@@ -1127,7 +1192,9 @@
     "ModelNo": "Web without Arms",
     "Name": "Web without Arms",
     "Type": "Cafeteria Chair",
+    "Armrest": "P.P. Arms",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/WebwithoutArms.jpg"
@@ -1140,6 +1207,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dollar-Lounge.jpg"
@@ -1152,6 +1220,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dollar-Writing.jpg"
@@ -1164,6 +1233,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dollar-Metal.jpg"
@@ -1176,6 +1246,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-Lounge.jpg"
@@ -1188,6 +1259,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-Writing.jpg"
@@ -1200,6 +1272,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
+    "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-Metal.jpg"
@@ -1210,7 +1283,10 @@
     "ModelNo": "Megna-Gamma (A)",
     "Name": "Megna-Gamma (A)",
     "Type": "Cafeteria Revolving Chair",
+    "Armrest": "PP",
+    "HeightAdjuster": "Gas Lift",
     "ProductCareInstructions": "Wipe Clean",
+    "Base Material": "PP Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-GammaA.jpg"
   },
@@ -1221,7 +1297,9 @@
     "Name": "Megna-Gamma (B)",
     "Type": "Cafeteria Revolving Chair",
     "ProductCareInstructions": "Wipe Clean",
+    "HeightAdjuster": "Gas Lift",
     "Fabric": "N.A.",
+    "Base Material": "PP Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-GammaB.jpg"
   }
