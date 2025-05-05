@@ -12,7 +12,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-142(W).jpg"
+  "Url": "/images/rsc142w.jpg"
  },
  {
   "Id": "142(B)",
@@ -27,7 +27,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-142(B).jpg"
+  "Url": "/images/rsc142b.jpg"
  },
  {
   "Id": "143(W)",
@@ -41,7 +41,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-143(W).jpg"
+  "Url": "/images/rsc143w.jpg"
  },
  {
   "Id": "143(B)",
@@ -55,7 +55,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-143(B).jpg"
+  "Url": "/images/rsc143b.jpg"
  },
  {
   "Id": "155(B)",
@@ -69,7 +69,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-155(B).png"
+  "Url": "/images/rsc155b.png"
  },
  {
   "Id": "155(W)",
@@ -83,7 +83,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-155(W).png"
+  "Url": "/images/rsc155w.png"
  },
  {
   "Id": "155(G)",
@@ -97,7 +97,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-155(G).png"
+  "Url": "/images/rsc155g.png"
  },
  {
   "Id": "156(B)",
@@ -111,7 +111,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-156(B).png"
+  "Url": "/images/rsc156b.png"
  },
  {
   "Id": "156(G)",
@@ -125,7 +125,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-156(G).png"
+  "Url": "/images/rsc156g.png"
  },
  {
   "Id": "156(W)",
@@ -139,7 +139,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/RSC-156(W).png"
+  "Url": "/images/rsc156w.png"
  },
  {
   "Id": "144(B)",
@@ -153,7 +153,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc144(B).png"
+  "Url": "/images/rsc144b.png"
  },
  {
   "Id": "144(G)",
@@ -167,7 +167,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc144(G).jpg"
+  "Url": "/images/rsc144g.jpg"
  },
  {
   "Id": "144(W)",
@@ -181,7 +181,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc144(W).png"
+  "Url": "/images/rsc144w.png"
  },
  {
   "Id": "145(B)",
@@ -195,7 +195,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc145(B).png"
+  "Url": "/images/rsc145b.png"
  },
  {
   "Id": "145(G)",
@@ -209,7 +209,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc145(G).png"
+  "Url": "/images/rsc145g.png"
  },
  {
   "Id": "145(W)",
@@ -223,7 +223,7 @@
   "BaseMaterial": "Nylon Base",
   "HeightAdjuster": "Gas Lift",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc145(W).png"
+  "Url": "/images/rsc145w.png"
  },
  {
   "Id": "146(B)",
