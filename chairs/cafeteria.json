@@ -10,7 +10,7 @@
     "Fabric": "Fabric Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-Alpha.jpg"
+    "Url": "/images/Grace-Alpha.png"
   },
   {
     "Id": "Grace1",
@@ -23,7 +23,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-Beta(WC).jpg"
+    "Url": "/images/Grace-Beta(WC).png"
   },
   {
     "Id": "Grace2",
@@ -36,7 +36,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-MetalA.jpg"
+    "Url": "/images/Grace-MetalA.png"
   },
   {
     "Id": "Grace3",
@@ -49,7 +49,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-Beta.jpg"
+    "Url": "/images/Grace-Beta.png"
   },
   {
     "Id": "Grace4",
@@ -62,7 +62,7 @@
     "Fabric": "Fabric Upholstery",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-MetalB.jpg"
+    "Url": "/images/Grace-MetalB.png"
   },
   {
     "Id": "Grace5",
@@ -75,7 +75,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-AlphaWC.jpg"
+    "Url": "/images/Grace-AlphaWC.png"
   },
   {
     "Id": "Catley",
@@ -88,7 +88,7 @@
     "Fabric": "Fabric Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-Alpha.jpg"
+    "Url": "/images/Catley-Alpha.png"
   },
   {
     "Id": "Catley1",
@@ -101,7 +101,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-Beta(WC).jpg"
+    "Url": "/images/Catley-Beta(WC).png"
   },
   {
     "Id": "Catley2",
@@ -114,7 +114,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-MetalA(WC).jpg"
+    "Url": "/images/Catley-MetalA(WC).png"
   },
   {
     "Id": "Catley3",
@@ -127,7 +127,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-Beta.jpg"
+    "Url": "/images/Catley-Beta.png"
   },
   {
     "Id": "Catley4",
@@ -140,7 +140,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-MetalB(WC).jpg"
+    "Url": "/images/Catley-MetalB(WC).png"
   },
   {
     "Id": "Catley5",
@@ -153,7 +153,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-Alpha(WC).jpg"
+    "Url": "/images/Catley-Alpha(WC).png"
   },
   {
     "Id": "Orbit",
@@ -166,7 +166,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orbit-Beta.jpg"
+    "Url": "/images/Orbit-Beta.png"
   },
   {
     "Id": "Orbit1",
@@ -179,7 +179,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orbit-Alpha.jpg"
+    "Url": "/images/Orbit-Alpha.png"
   },
   {
     "Id": "Orbit2",
@@ -192,7 +192,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orbit-Metal.jpg"
+    "Url": "/images/Orbit-Metal.png"
   },
   {
     "Id": "Benz",
@@ -205,7 +205,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Benz.jpg"
+    "Url": "/images/Benz.png"
   },
   {
     "Id": "Glossy",
@@ -218,7 +218,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Glossy.jpg"
+    "Url": "/images/Glossy.png"
   },
   {
     "Id": "Ikon",
@@ -231,7 +231,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Ikon.jpg"
+    "Url": "/images/Ikon.png"
   },
   {
     "Id": "Aster",
@@ -244,7 +244,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Aster.jpg"
+    "Url": "/images/Aster.png"
   },
   {
     "Id": "Leo",
@@ -257,7 +257,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Leo.jpg"
+    "Url": "/images/Leo.png"
   },
   {
     "Id": "Jerry",
@@ -270,7 +270,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Jerry.jpg"
+    "Url": "/images/Jerry.png"
   },
   {
     "Id": "Jainy",
@@ -283,7 +283,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Jainy.jpg"
+    "Url": "/images/Jainy.png"
   },
   {
     "Id": "Fizi",
@@ -296,7 +296,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Fizi.jpg"
+    "Url": "/images/Fizi.png"
   },
   {
     "Id": "Euro",
@@ -309,7 +309,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Euro.jpg"
+    "Url": "/images/Euro.png"
   },
   {
     "Id": "Dazzy",
@@ -322,7 +322,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dazzy.jpg"
+    "Url": "/images/Dazzy.png"
   },
   {
     "Id": "Sparrow",
@@ -335,7 +335,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sparrow-Alpha.jpg"
+    "Url": "/images/Sparrow-Alpha.png"
   },
   {
     "Id": "Sparrow1",
@@ -348,7 +348,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sparrow-Beta.jpg"
+    "Url": "/images/Sparrow-Beta.png"
   },
   {
     "Id": "Sparrow2",
@@ -361,7 +361,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sparrow-Sigma.jpg"
+    "Url": "/images/Sparrow-Sigma.png"
   },
   {
     "Id": "Galaxy",
@@ -374,7 +374,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Galaxy.jpg"
+    "Url": "/images/Galaxy.png"
   },
   {
     "Id": "Turbo",
@@ -387,7 +387,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Alpha.jpg"
+    "Url": "/images/Turbo-Alpha.png"
   },
   {
     "Id": "Turbo1",
@@ -400,7 +400,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Beta.jpg"
+    "Url": "/images/Turbo-Beta.png"
   },
   {
     "Id": "Turbo2",
@@ -413,7 +413,7 @@
     "Fabric": "Fabric Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Theta.jpg"
+    "Url": "/images/Turbo-Theta.png"
   },
   {
     "Id": "Turbo3",
@@ -426,7 +426,7 @@
     "Fabric": "Fabric Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Eta.jpg"
+    "Url": "/images/Turbo-Eta.png"
   },
   {
     "Id": "Turbo4",
@@ -439,7 +439,7 @@
     "Fabric": "N.A.",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Smart.jpg"
+    "Url": "/images/Turbo-Smart.png"
   },
   {
     "Id": "Turbo5",
@@ -452,7 +452,7 @@
     "Fabric": "N.A.",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Gamma.jpg"
+    "Url": "/images/Turbo-Gamma.png"
   },
   {
     "Id": "Turbo6",
@@ -465,7 +465,7 @@
     "Fabric": "N.A.",
     "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Turbo-Zeta.jpg"
+    "Url": "/images/Turbo-Zeta.png"
   },
   {
     "Id": "Trendy",
@@ -478,7 +478,7 @@
     "SpecialFeature": "Lightweight",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/TrendywithArms.jpg"
+    "Url": "/images/TrendywithArms.png"
   },
   {
     "Id": "Trendy1",
@@ -491,7 +491,7 @@
     "SpecialFeature": "Lightweight",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/TrendywithoutArms.jpg"
+    "Url": "/images/TrendywithoutArms.png"
   },
   {
     "Id": "Novela",
@@ -504,7 +504,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Novela.jpg"
+    "Url": "/images/Novela.png"
   },
   {
     "Id": "Era",
@@ -517,7 +517,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Era.jpg"
+    "Url": "/images/Era.png"
   },
   {
     "Id": "Lara",
@@ -530,7 +530,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraBeta.jpg"
+    "Url": "/images/LaraBeta.png"
   },
   {
     "Id": "Lara1",
@@ -543,7 +543,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Wooden & Metal",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Lara Delta.jpg"
+    "Url": "/images/Lara Delta.png"
   },
   {
     "Id": "Lara2",
@@ -556,7 +556,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraAlpha.jpg"
+    "Url": "/images/LaraAlpha.png"
   },
   {
     "Id": "Lara3",
@@ -569,7 +569,7 @@
     "HeightAdjuster": "Gas Lift",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraSmart.jpg"
+    "Url": "/images/LaraSmart.png"
   },
   {
     "Id": "Lara4",
@@ -582,7 +582,7 @@
     "HeightAdjuster": "Gas Lift",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraGamma.jpg"
+    "Url": "/images/LaraGamma.png"
   },
   {
     "Id": "Excel",
@@ -595,7 +595,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ExcelAlpha.jpg"
+    "Url": "/images/ExcelAlpha.png"
   },
   {
     "Id": "Excel1",
@@ -608,7 +608,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ExcelBeta.jpg"
+    "Url": "/images/ExcelBeta.png"
   },
   {
     "Id": "Excel2",
@@ -621,7 +621,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Writing.jpg"
+    "Url": "/images/Excel-Writing.png"
   },
   {
     "Id": "Excel3",
@@ -634,7 +634,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Zeta.jpg"
+    "Url": "/images/Excel-Zeta.png"
   },
   {
     "Id": "Excel4",
@@ -647,7 +647,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Lounge.jpg"
+    "Url": "/images/Excel-Lounge.png"
   },
   {
     "Id": "Excel5",
@@ -660,7 +660,7 @@
     "Size": "Standard",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Writing(WC).jpg"
+    "Url": "/images/Excel-Writing(WC).png"
   },
   {
     "Id": "Excel6",
@@ -673,7 +673,7 @@
     "Size": "Standard",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Alpha(WC).jpg"
+    "Url": "/images/Excel-Alpha(WC).png"
   },
   {
     "Id": "Excel7",
@@ -686,7 +686,7 @@
     "Size": "Standard",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Beta(WC).jpg"
+    "Url": "/images/Excel-Beta(WC).png"
   },
   {
     "Id": "Excel8",
@@ -699,7 +699,7 @@
     "Size": "Standard",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Zeta (WC).jpg"
+    "Url": "/images/Excel-Zeta (WC).png"
   },
   {
     "Id": "Orco",
@@ -712,7 +712,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orco-Alpha.jpg"
+    "Url": "/images/Orco-Alpha.png"
   },
   {
     "Id": "Orco1",
@@ -725,7 +725,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orco-Beta.jpg"
+    "Url": "/images/Orco-Beta.png"
   },
   {
     "Id": "Orco2",
@@ -738,7 +738,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orco-Smart.jpg"
+    "Url": "/images/Orco-Smart.png"
   },
   {
     "Id": "Orco3",
@@ -751,7 +751,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orco-Gamma.jpg"
+    "Url": "/images/Orco-Gamma.png"
   },
   {
     "Id": "Orco4",
@@ -764,7 +764,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orco-Metal.jpg"
+    "Url": "/images/Orco-Metal.png"
   },
   {
     "Id": "Any",
@@ -777,7 +777,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Any-Smart.jpg"
+    "Url": "/images/Any-Smart.png"
   },
   {
     "Id": "Any1",
@@ -790,7 +790,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Any-Alpha.jpg"
+    "Url": "/images/Any-Alpha.png"
   },
   {
     "Id": "Any2",
@@ -803,7 +803,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Any-Beta.jpg"
+    "Url": "/images/Any-Beta.png"
   },
   {
     "Id": "Any3",
@@ -816,7 +816,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Any-Metal.jpg"
+    "Url": "/images/Any-Metal.png"
   },
   {
     "Id": "Casper",
@@ -881,7 +881,7 @@
     "Fabric": "N.A.",
     "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Casper-Zeta.jpg"
+    "Url": "/images/Casper-Zeta.png"
   },
   {
     "Id": "Aqua",
@@ -928,7 +928,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Aqua-Gamma.jpg"
+    "Url": "/images/Aqua-Gamma.png"
   },
   {
     "Id": "Aqua4",
@@ -939,7 +939,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Aqua-Zeta.jpg"
+    "Url": "/images/Aqua-Zeta.png"
   },
   {
     "Id": "Camry",
@@ -1006,7 +1006,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dytto-Alpha.jpg"
+    "Url": "/images/Dytto-Alpha.png"
   },
   {
     "Id": "Dytto2",
@@ -1017,7 +1017,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Base Material": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dytto-Beta.jpg"
+    "Url": "/images/Dytto-Beta.png"
   },
   {
     "Id": "Dytto3",
@@ -1028,7 +1028,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Base Material": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dytto-Metal.jpg"
+    "Url": "/images/Dytto-Metal.png"
   },
   {
     "Id": "Dytto4",
@@ -1062,7 +1062,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sky-Alpha.jpg"
+    "Url": "/images/Sky-Alpha.png"
   },
   {
     "Id": "Sky1",
@@ -1074,7 +1074,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sky-Beta.jpg"
+    "Url": "/images/Sky-Beta.png"
   },
   {
     "Id": "Sky2",
@@ -1086,7 +1086,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "Wooden & Metal",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/SkyDelta.jpg"
+    "Url": "/images/SkyDelta.png"
   },
   {
     "Id": "Sky3",
@@ -1099,7 +1099,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sky-Gamma.jpg"
+    "Url": "/images/Sky-Gamma.png"
   },
   {
     "Id": "Sky4",
@@ -1112,7 +1112,7 @@
     "Fabric": "Leatherite Upholstery",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sky-Smart.jpg"
+    "Url": "/images/Sky-Smart.png"
   },
   {
     "Id": "Neo",
@@ -1123,7 +1123,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Neo-Alpha.jpg"
+    "Url": "/images/Neo-Alpha.png"
   },
   {
     "Id": "Neo1",
@@ -1134,7 +1134,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Base Material": "PP",
     "ColorOptions": "<span className='flex space-x-2'><code class='w-4 h-4 bg-Grey-700 rounded'></code><code class='w-4 h-4 bg-blue-600 rounded'></code><code class='w-4 h-4 bg-green-500 rounded'></code><code class='w-4 h-4 bg-red-500 rounded'></code><code class='w-4 h-4 bg-orange-500 rounded'></code><code class='w-4 h-4 bg-yellow-300 rounded'></code><code class='w-4 h-4 bg-teal-500 rounded'></code></span>",
-    "Url": "/images/Neo-Beta.jpg"
+    "Url": "/images/Neo-Beta.png"
   },
   {
     "Id": "Neo2",
@@ -1146,7 +1146,7 @@
     "HeightAdjuster": "Gas Lift",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Neo-Gamma.jpg"
+    "Url": "/images/Neo-Gamma.png"
   },
   {
     "Id": "Neo3",
@@ -1158,7 +1158,7 @@
     "HeightAdjuster": "Gas Lift",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Neo-Smart.jpg"
+    "Url": "/images/Neo-Smart.png"
   },
   {
     "Id": "Neo4",
@@ -1171,7 +1171,7 @@
     "Fabric": "N.A.",
     "Base Material": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Neo-Sigma.jpg"
+    "Url": "/images/Neo-Sigma.png"
   },
   {
     "Id": "Web",
@@ -1184,7 +1184,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/WebwithArms.jpg"
+    "Url": "/images/WebwithArms.png"
   },
   {
     "Id": "Web1",
@@ -1197,7 +1197,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/WebwithoutArms.jpg"
+    "Url": "/images/WebwithoutArms.png"
   },
   {
     "Id": "Dollar",
@@ -1210,7 +1210,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dollar-Lounge.jpg"
+    "Url": "/images/Dollar-Lounge.png"
   },
   {
     "Id": "Dollar1",
@@ -1223,7 +1223,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dollar-Writing.jpg"
+    "Url": "/images/Dollar-Writing.png"
   },
   {
     "Id": "Dollar2",
@@ -1236,7 +1236,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dollar-Metal.jpg"
+    "Url": "/images/Dollar-Metal.png"
   },
   {
     "Id": "Megna",
@@ -1249,7 +1249,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-Lounge.jpg"
+    "Url": "/images/Megna-Lounge.png"
   },
   {
     "Id": "Megna1",
@@ -1262,7 +1262,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-Writing.jpg"
+    "Url": "/images/Megna-Writing.png"
   },
   {
     "Id": "Megna2",
@@ -1275,7 +1275,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-Metal.jpg"
+    "Url": "/images/Megna-Metal.png"
   },
   {
     "Id": "Megna3",
@@ -1288,7 +1288,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Base Material": "PP Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-GammaA.jpg"
+    "Url": "/images/Megna-GammaA.png"
   },
   {
     "Id": "Megna4",
@@ -1301,6 +1301,6 @@
     "Fabric": "N.A.",
     "Base Material": "PP Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-GammaB.jpg"
+    "Url": "/images/Megna-GammaB.png"
   }
 ]
