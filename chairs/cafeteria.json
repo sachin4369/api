@@ -15,15 +15,15 @@
   {
     "Id": "Grace1",
     "Tag": "Common",
-    "ModelNo": "Grace-Beta (WC)",
-    "Name": "Grace-Beta (WC)",
+    "ModelNo": "Grace-Beta WC",
+    "Name": "Grace-Beta WC",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Grace-Beta(WC).png"
+    "Url": "/images/Grace-BetaWC.png"
   },
   {
     "Id": "Grace2",
@@ -93,28 +93,28 @@
   {
     "Id": "Catley1",
     "Tag": "Common",
-    "ModelNo": "Catley-Beta (WC)",
-    "Name": "Catley-Beta (WC)",
+    "ModelNo": "Catley-Beta WC",
+    "Name": "Catley-Beta WC",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-Beta(WC).png"
+    "Url": "/images/Catley-BetaWC.png"
   },
   {
     "Id": "Catley2",
     "Tag": "Common",
-    "ModelNo": "Catley-Metal A (WC)",
-    "Name": "Catley-Metal A (WC)",
+    "ModelNo": "Catley-Metal A WC",
+    "Name": "Catley-Metal A WC",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-MetalA(WC).png"
+    "Url": "/images/Catley-MetalAWC.png"
   },
   {
     "Id": "Catley3",
@@ -132,28 +132,28 @@
   {
     "Id": "Catley4",
     "Tag": "Common",
-    "ModelNo": "Catley-Metal B (WC)",
-    "Name": "Catley-Metal B (WC)",
+    "ModelNo": "Catley-Metal B WC",
+    "Name": "Catley-Metal B WC",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-MetalB(WC).png"
+    "Url": "/images/Catley-MetalBWC.png"
   },
   {
     "Id": "Catley5",
     "Tag": "Common",
-    "ModelNo": "Catley-Alpha (WC)",
-    "Name": "Catley-Alpha (WC)",
+    "ModelNo": "Catley-Alpha WC",
+    "Name": "Catley-Alpha WC",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Catley-Alpha(WC).png"
+    "Url": "/images/Catley-AlphaWC.png"
   },
   {
     "Id": "Orbit",
@@ -530,7 +530,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraBeta.png"
+    "Url": "/images/Lara-Beta.png"
   },
   {
     "Id": "Lara1",
@@ -543,7 +543,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "Wooden & Metal",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Lara Delta.png"
+    "Url": "/images/Lara-Delta.png"
   },
   {
     "Id": "Lara2",
@@ -556,7 +556,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraAlpha.png"
+    "Url": "/images/Lara-Alpha.png"
   },
   {
     "Id": "Lara3",
@@ -569,7 +569,7 @@
     "HeightAdjuster": "Gas Lift",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraSmart.png"
+    "Url": "/images/Lara-Smart.png"
   },
   {
     "Id": "Lara4",
@@ -582,7 +582,7 @@
     "HeightAdjuster": "Gas Lift",
     "Base Material": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/LaraGamma.png"
+    "Url": "/images/Lara-Gamma.png"
   },
   {
     "Id": "Excel",
@@ -608,7 +608,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ExcelBeta.png"
+    "Url": "/images/Excel-Beta.png"
   },
   {
     "Id": "Excel2",
@@ -652,54 +652,54 @@
   {
     "Id": "Excel5",
     "Tag": "Common",
-    "ModelNo": "Excel-Writing (WC)",
-    "Name": "Excel-Writing (WC)",
+    "ModelNo": "Excel-Writing WC",
+    "Name": "Excel-Writing WC",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "Size": "Standard",
     "FrameMaterial": "Metal Chrome Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Writing(WC).png"
+    "Url": "/images/Excel-WritingWC.png"
   },
   {
     "Id": "Excel6",
     "Tag": "Common",
-    "ModelNo": "Excel-Alpha (WC)",
-    "Name": "Excel-Alpha (WC)",
+    "ModelNo": "Excel-Alpha WC",
+    "Name": "Excel-Alpha WC",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "Size": "Standard",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Alpha(WC).png"
+    "Url": "/images/Excel-AlphaWC.png"
   },
   {
     "Id": "Excel7",
     "Tag": "Common",
-    "ModelNo": "Excel-Beta (WC)",
-    "Name": "Excel-Beta (WC)",
+    "ModelNo": "Excel-Beta WC",
+    "Name": "Excel-Beta WC",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "Size": "Standard",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Beta(WC).png"
+    "Url": "/images/Excel-BetaWC.png"
   },
   {
     "Id": "Excel8",
     "Tag": "Common",
-    "ModelNo": "Excel-Zeta (WC)",
-    "Name": "Excel-Zeta (WC)",
+    "ModelNo": "Excel-Zeta WC",
+    "Name": "Excel-Zeta WC",
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "Size": "Standard",
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Zeta (WC).png"
+    "Url": "/images/Excel-ZetaWC.png"
   },
   {
     "Id": "Orco",
@@ -1133,7 +1133,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Base Material": "PP",
-    "ColorOptions": "<span className='flex space-x-2'><code class='w-4 h-4 bg-Grey-700 rounded'></code><code class='w-4 h-4 bg-blue-600 rounded'></code><code class='w-4 h-4 bg-green-500 rounded'></code><code class='w-4 h-4 bg-red-500 rounded'></code><code class='w-4 h-4 bg-orange-500 rounded'></code><code class='w-4 h-4 bg-yellow-300 rounded'></code><code class='w-4 h-4 bg-teal-500 rounded'></code></span>",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Beta.png"
   },
   {
