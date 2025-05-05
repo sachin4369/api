@@ -595,7 +595,7 @@
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ExcelAlpha.png"
+    "Url": "/images/Excel-Alpha.png"
   },
   {
     "Id": "Excel1",
@@ -904,7 +904,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/AquaBeta.png"
+    "Url": "/images/Aqua-Beta.png"
   },
   {
     "Id": "Aqua2",
@@ -972,7 +972,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/CamryMetal.png"
+    "Url": "/images/Camry-Metal.png"
   },
   {
     "Id": "Camry3",
