@@ -829,7 +829,7 @@
     "Fabric": "N.A.",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/CasperWriting.png"
+    "Url": "/images/Casper-Writing.png"
   },
   {
     "Id": "Casper1",
@@ -842,7 +842,7 @@
     "Fabric": "N.A.",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/CasperBeta.png"
+    "Url": "/images/Casper-Beta.png"
   },
   {
     "Id": "Casper2",
@@ -855,7 +855,7 @@
     "Fabric": "N.A.",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/CasperAlpha.png"
+    "Url": "/images/Casper-Alpha.png"
   },
   {
     "Id": "Casper3",
@@ -868,7 +868,7 @@
     "Fabric": "N.A.",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/CasperMetal.png"
+    "Url": "/images/Casper-Metal.png"
   },
   {
     "Id": "Casper4",
@@ -893,7 +893,7 @@
     "HeightAdjuster": "N.A.",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/AquaWriting.png"
+    "Url": "/images/Aqua-Writing.png"
   },
   {
     "Id": "Aqua1",
@@ -915,7 +915,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/AquaAlpha.png"
+    "Url": "/images/Aqua-Alpha.png"
   },
   {
     "Id": "Aqua3",
@@ -950,7 +950,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/CamryBeta.png"
+    "Url": "/images/Camry-Beta.png"
   },
   {
     "Id": "Camry1",
@@ -961,7 +961,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/CamryAlpha.png"
+    "Url": "/images/Camry-Alpha.png"
   },
   {
     "Id": "Camry2",
@@ -984,7 +984,7 @@
     "Fabric": "Leatherite Upholstery",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "PP",
-    "Url": "/images/CamryAlphaA.png"
+    "Url": "/images/Camry-AlphaA.png"
   },
   {
     "Id": "Dytto",
@@ -995,7 +995,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/DyttoLounge.png"
+    "Url": "/images/Dytto-Lounge.png"
   },
   {
     "Id": "Dytto1",
@@ -1039,7 +1039,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/DyttoWriting.png"
+    "Url": "/images/Dytto-Writing.png"
   },
   {
     "Id": "Dytto5",
@@ -1050,7 +1050,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "FrameMaterial": "Metal Powder Coated Stand",
-    "Url": "/images/DyttoZeta.png"
+    "Url": "/images/Dytto-Zeta.png"
   },
   {
     "Id": "Sky",
@@ -1086,7 +1086,7 @@
     "Fabric": "Leatherite Upholstery",
     "FrameMaterial": "Wooden & Metal",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/SkyDelta.png"
+    "Url": "/images/Sky-Delta.png"
   },
   {
     "Id": "Sky3",
