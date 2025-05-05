@@ -9,7 +9,7 @@
     "Armrest": "PP Arms",
     "FrameMaterial": "PP",
     "Seat Material": "PP",
-    "Url": "/images/rsc1015g.png"
+    "Url": "/images/rsc1015g3Seater.png"
   },
   {
     "Id": "1015(BL)",
@@ -21,7 +21,7 @@
     "Armrest": "PP Arms",
     "FrameMaterial": "PP",
     "SeatMaterial": "PP",
-    "Url": "/images/rsc1015bl.png"
+    "Url": "/images/rsc1015bl2Seater.png"
   },
   {
     "Id": "1015(BLK)",
@@ -33,7 +33,7 @@
     "Armrest": "PP Arms",
     "FrameMaterial": "PP",
     "SeatMaterial": "PP",
-    "Url": "/images/rsc1015blk.png"
+    "Url": "/images/rsc1015blk1Seater.png"
   },
   {
     "Id": "1004",
