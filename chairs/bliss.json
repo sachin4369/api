@@ -10,7 +10,7 @@
     "Fabric": "Fabric Upholstery", 
     "FrameMaterial": "Metal Powder Coated Stand", 
     "ColorOptions": "Black, Brown, Grey", 
-    "Url": "/images/rsc603.png" 
+    "Url": "./images/rsc603.png" 
   }, 
   { 
     "Id": "602", 
@@ -23,7 +23,7 @@
     "Fabric": "Fabric Upholstery", 
     "BaseMaterial": "PP Base", 
     "ColorOptions": "Black, Brown, Grey", 
-    "Url": "/images/rsc602.png" 
+    "Url": "/assets/rsc602.png" 
   }, 
   { 
     "Id": "601", 
@@ -36,7 +36,7 @@
     "Fabric": "Fabric Upholstery", 
     "BaseMaterial": "PP Base", 
     "ColorOptions": "Black, Brown, Grey", 
-    "Url": "/images/rsc601.png" 
+    "Url": "/rsc601.png" 
   }, 
   { 
     "Id": "609", 
