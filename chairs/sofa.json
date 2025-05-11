@@ -10,7 +10,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1126.jpg"
+  "Url": "/images/rsc1126.png"
  },
  {
   "Id": "1106",
@@ -23,7 +23,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1106.jpg"
+  "Url": "/images/rsc1106.png"
  },
  {
   "Id": "1127",
@@ -36,7 +36,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1127.jpg"
+  "Url": "/images/rsc1127.png"
  },
  {
   "Id": "1128",
@@ -49,7 +49,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1128.jpg"
+  "Url": "/images/rsc1128.png"
  },
  {
   "Id": "1129",
@@ -62,7 +62,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1129.jpg"
+  "Url": "/images/rsc1129.png"
  },
  {
   "Id": "1109",
@@ -75,7 +75,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1109.jpg"
+  "Url": "/images/rsc1109.png"
  },
  {
   "Id": "1112",
@@ -88,7 +88,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1112.jpg"
+  "Url": "/images/rsc1112.png"
  },
  {
   "Id": "1130",
@@ -101,7 +101,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1130.jpg"
+  "Url": "/images/rsc1130.png"
  },
  {
   "Id": "1131",
@@ -114,7 +114,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1131.jpg"
+  "Url": "/images/rsc1131.png"
  },
  {
   "Id": "1132",
@@ -127,7 +127,7 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1132.jpg"
+  "Url": "/images/rsc1132.png"
  },
  {
   "Id": "1107",
@@ -140,6 +140,6 @@
   "Fabric": "Leatherite Upholstery",
   "FrameMaterial": "Metal Stand",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc1107.jpg"
+  "Url": "/images/rsc1107.png"
  }
 ]
