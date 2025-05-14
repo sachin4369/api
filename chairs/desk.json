@@ -6,7 +6,8 @@
     "Name": "Double Zuma Desk",
     "Type": "Student Desk",
     "Material": "PP Moulded Seat, Back & Table Top",
-    "FrameMaterial": "Powder Coated Metal Stand"
+    "FrameMaterial": "Powder Coated Metal Stand",
+    "Url": "/images/zumba-double-desk.png"
   },
   {
     "Id": "Zuma1",
@@ -15,6 +16,7 @@
     "Name": "Single Zuma Desk",
     "Type": "Student Desk",
     "Material": "PP Moulded Seat, Back & Table Top",
-    "FrameMaterial": "Powder Coated Metal Stand"
+    "FrameMaterial": "Powder Coated Metal Stand",
+    "Url": "/images/zumba-single-desk.png"
   }
 ] 
