@@ -360,7 +360,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc501b.jpg"
+    "Url": "/images/rsc501b.png"
   },
   {
     "Id": "501(G)",
@@ -374,7 +374,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc501g.jpg"
+    "Url": "/images/rsc501g.png"
   },
   {
     "Id": "501(W)",
@@ -388,7 +388,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc501w.jpg"
+    "Url": "/images/rsc501w.png"
   },
   {
     "Id": "502(B)",
@@ -402,7 +402,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc502b.jpg"
+    "Url": "/images/rsc502b.png"
   },
   {
     "Id": "502(G)",
@@ -416,7 +416,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc502g.jpg"
+    "Url": "/images/rsc502g.png"
   },
   {
     "Id": "502(W)",
@@ -430,7 +430,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc502w.jpg"
+    "Url": "/images/rsc502w.png"
   },
   {
     "Id": "504(B)",
@@ -444,7 +444,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc504b.jpg"
+    "Url": "/images/rsc504b.png"
   },
   {
     "Id": "504(G)",
@@ -458,7 +458,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc504g.jpg"
+    "Url": "/images/rsc504g.png"
   },
   {
     "Id": "504(W)",
@@ -472,7 +472,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc504w.jpg"
+    "Url": "/images/rsc504w.png"
   },
   {
     "Id": "505(B)",
@@ -500,7 +500,7 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc505g.jpg"
+    "Url": "/images/rsc505g.png"
   },
   {
     "Id": "505(W)",
@@ -514,6 +514,6 @@
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
-    "Url": "/images/rsc505w.jpg"
+    "Url": "/images/rsc505w.png"
   }
 ]
