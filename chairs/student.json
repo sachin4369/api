@@ -17,7 +17,7 @@
   "Name": "RSC - 845 (G)",
   "Type": "Student Chair",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-  "FrameMaterial": "Metal Powder Coated Frame",
+  "FrameMaterial": "Chrome Metal Frame",
   "Url": "/images/rsc845g.png"
  },
  {
@@ -38,7 +38,7 @@
   "Name": "RSC - 845 (W)",
   "Type": "Student Chair",
   "Color": "White",
-  "FrameMaterial": "Metal Powder Coated Frame",
+  "FrameMaterial": "Chrome Metal Frame",
   "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc845w.png"
  }
