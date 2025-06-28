@@ -182,6 +182,20 @@
   "Url": "/images/rsc575.png"
  },
  {
+  "Id": "576",
+  "Tag": "Common",
+  "ModelNo": "RSC - 576",
+  "Name": "RSC - 576",
+  "Type": "Workstation Medium Back Chair",
+  "BodyColor": "As Cushion",
+  "Mechanism": "Tilting Mechanism",
+  "Armrest": "PP Arm & Cushion",
+  "Fabric": "Leatherite Upholstery",
+  "BaseMaterial": "PP Base",
+  "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
+  "Url": "/images/rsc576.png"
+ },
+ {
   "Id": "562",
   "Tag": "Common",
   "ModelNo": "RSC - 562",
@@ -207,7 +221,7 @@
   "Fabric": "Net Upholstery",
   "BaseMaterial": "Metal Chrome Base",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
-  "Url": "/images/rsc563.png"
+  "Url": "/images/rsc530.png"
  },
  {
   "Id": "473",
@@ -218,7 +232,7 @@
   "BodyColor": "As Cushion",
   "Armrest": "Metal Arm & Cushion",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Chrome Base",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc473.png"
  }
