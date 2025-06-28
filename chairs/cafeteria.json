@@ -437,7 +437,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "N.A.",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Turbo-Smart.png"
   },
@@ -450,7 +450,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "N.A.",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Turbo-Gamma.png"
   },
@@ -463,7 +463,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
-    "Base Material": "Metal Powder Coated Stand",
+    "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Turbo-Zeta.png"
   },
@@ -502,7 +502,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "SpecialFeature": "Without Cushion",
     "Fabric": "N.A.",
-    "FrameMaterial": "Chrome Frame",
+    "FrameMaterial": "SS Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Novela.png"
   },
@@ -567,7 +567,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Size": "Standard",
     "HeightAdjuster": "Gas Lift",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Lara-Smart.png"
   },
@@ -580,7 +580,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Size": "Standard",
     "HeightAdjuster": "Gas Lift",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Lara-Gamma.png"
   },
@@ -736,7 +736,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Orco-Smart.png"
   },
@@ -749,7 +749,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Orco-Gamma.png"
   },
@@ -775,7 +775,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Any-Smart.png"
   },
@@ -801,7 +801,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "PP",
+    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Any-Beta.png"
   },
@@ -814,7 +814,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "N.A.",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Powder Coated Stand",
+    "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Any-Metal.png"
   },
@@ -879,7 +879,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
-    "Base Material": "Metal Powder Coated Stand",
+    "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Casper-Zeta.png"
   },
@@ -925,8 +925,8 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
-    "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Chrome Base",
+    "Fabric": "N.A.",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Aqua-Gamma.png"
   },
@@ -1015,7 +1015,7 @@
     "Name": "Dytto-Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "Base Material": "PP",
+    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dytto-Beta.png"
   },
@@ -1026,7 +1026,7 @@
     "Name": "Dytto-Metal",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "Base Material": "Metal Chrome Frame",
+    "FrameMaterial": "Metal Powder Coated Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dytto-Metal.png"
   },
@@ -1072,7 +1072,7 @@
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "PP",
+    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sky-Beta.png"
   },
@@ -1097,7 +1097,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sky-Gamma.png"
   },
@@ -1110,7 +1110,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "Leatherite Upholstery",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sky-Smart.png"
   },
@@ -1132,7 +1132,7 @@
     "Name": "Neo-Beta",
     "Type": "Cafeteria Chair",
     "ProductCareInstructions": "Wipe Clean",
-    "Base Material": "PP",
+    "FrameMaterial": "PP",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Beta.png"
   },
@@ -1144,7 +1144,7 @@
     "Type": "Cafeteria Revolving Chair",
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Gamma.png"
   },
@@ -1156,7 +1156,7 @@
     "Type": "Cafeteria Bar Chair",
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
-    "Base Material": "Metal Chrome Base",
+    "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Smart.png"
   },
@@ -1169,7 +1169,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "N.A.",
     "Fabric": "N.A.",
-    "Base Material": "Metal Powder Coated Stand",
+    "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Sigma.png"
   },
@@ -1192,7 +1192,7 @@
     "ModelNo": "Web without Arms",
     "Name": "Web without Arms",
     "Type": "Cafeteria Chair",
-    "Armrest": "P.P. Arms",
+    "Armrest": "N.A.",
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "N.A.",
     "FrameMaterial": "PP",
@@ -1260,7 +1260,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "Fabric": "N.A.",
     "HeightAdjuster": "N.A.",
-    "FrameMaterial": "Metal Chrome Frame",
+    "Frame Material": "Metal Powder Coated Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-Writing.png"
   },
@@ -1286,7 +1286,7 @@
     "Armrest": "PP",
     "HeightAdjuster": "Gas Lift",
     "ProductCareInstructions": "Wipe Clean",
-    "Base Material": "PP Base",
+    "FrameMaterial": "PP Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-GammaA.png"
   },
@@ -1299,7 +1299,7 @@
     "ProductCareInstructions": "Wipe Clean",
     "HeightAdjuster": "Gas Lift",
     "Fabric": "N.A.",
-    "Base Material": "PP Base",
+    "FrameMaterial": "PP Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Megna-GammaB.png"
   }
