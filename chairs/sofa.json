@@ -21,7 +21,7 @@
   "Armrest": "Wooden With Cushion",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "SS Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1106.png"
  },
@@ -34,7 +34,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1127.png"
  },
@@ -60,7 +60,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1129.png"
  },
@@ -73,7 +73,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Type": "Category",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1109.png"
  },
@@ -86,7 +86,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1112.png"
  },
@@ -99,7 +99,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1130.png"
  },
@@ -112,7 +112,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Metal Chrome Frame",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1131.png"
  },
@@ -122,10 +122,10 @@
   "ModelNo": "RSC - 1132",
   "Name": "RSC - 1132",
   "Type": "Sofa Set 2+1+1+1",
-  "Armrest": "Wooden With Cushion & Metal",
+  "Armrest": "NA",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Wooden",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1132.png"
  },
@@ -138,7 +138,7 @@
   "Armrest": "Wooden With Cushion & Metal",
   "Category": "Standard",
   "Fabric": "Leatherite Upholstery",
-  "FrameMaterial": "Metal Stand",
+  "FrameMaterial": "Wooden",
   "ColorOptions": "Black, Blue, Sky Blue, Brown, Grey, Red, Green",
   "Url": "/images/rsc1107.png"
  }
