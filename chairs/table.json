@@ -17,7 +17,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Powder Coated Single Pillar Round Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1202.png"
  },
@@ -28,7 +28,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Powder Coated Single Pillar Square Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1203.png"
  },
@@ -72,7 +72,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Powder Coated Four Pillar Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1207.png"
  },
@@ -83,7 +83,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Powder Coated Four Pillar Square Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1208.png"
  },
@@ -94,7 +94,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Powder Coated Cross Four Pillar Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1209.png"
  },
@@ -138,7 +138,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1213.png"
  },
@@ -149,7 +149,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1214.png"
  },
@@ -160,7 +160,7 @@
   "Name": "Cafeteria Table",
   "Type": "Table",
   "TopMaterial": "Wooden",
-  "FrameMaterial": "Metal Frame",
+  "FrameMaterial": "Meta Powder Coated Frame",
   "Height": "30",
   "Url": "/images/rsc1215.png"
  },
@@ -183,7 +183,7 @@
   "Type": "Table",
   "TopMaterial": "Wooden",
   "FrameMaterial": "Metal Powder Coated Frame",
-  "Height": "30",
+  "Height": "42",
   "Url": "/images/rsc1217.png"
  },
  {
