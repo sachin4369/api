@@ -1,5 +1,17 @@
 [
-    			
+ {
+    "Id": "Aster",
+    "Tag": "Common",
+    "ModelNo": "Aster",
+    "Name": "Aster",
+    "Type": "Cafeteria Visitor Chair",
+    "Material": "Polypropylene",
+    "ProductCareInstructions": "Wipe Clean",
+    "Fabric": "N.A.",
+    "FrameMaterial": "PP",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "Url": "/images/Aster.png"
+  },			
 {
     "Id": "Spine",
     "Tag": "Common",
