@@ -1,6 +1,7 @@
 [
  {			
 	"id": "157(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-157(G)",
 	"Name": "Vertex High Back",	
 	"Type": "High Back",
@@ -15,6 +16,7 @@
   },			
 {			
 	"id": "157(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-157(B)",
 	"Name": "Vertex High Back",	
 	"Type": "High Back",
@@ -29,6 +31,7 @@
   },			
 {			
 	"id": "158(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-158(G)",
 	"Name": "Vertex Medium Back",	
 	"Type": "Medium Back",
@@ -43,6 +46,7 @@
   },		
 {			
 	"id": "158(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-158(B)",
 	"Name": "Vertex Medium Back",	
 	"Type": "Medium Back",
@@ -57,6 +61,7 @@
   },		
 {			
 	"id": "159(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-159(G)",
 	"Name": "Cortex High Back",	
 	"Type": "High Back",
@@ -71,6 +76,7 @@
   },	
 {			
 	"id": "159(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-159(B)",
 	"Name": "Cortex High Back",	
 	"Type": "High Back",
@@ -85,6 +91,7 @@
   },	
 {			
 	"id": "160(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-160(G)",
 	"Name": "Cortex Medium Back",	
 	"Type": "Medium Back",
@@ -99,6 +106,7 @@
   },	
 {			
 	"id": "160(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-160(B)",
 	"Name": "Cortex Medium Back",	
 	"Type": "Medium Back",
@@ -113,6 +121,7 @@
   },	
 {			
 	"id": "161(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-161(G)",
 	"Name": "Lattice High Back",	
 	"Type": "High Back",
@@ -127,6 +136,7 @@
   },	
 {			
 	"id": "161(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-161(B)",
 	"Name": "Lattice High Back",	
 	"Type": "High Back",
@@ -141,6 +151,7 @@
   },	
 {			
 	"id": "162(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-162(G)",
 	"Name": "Lattice Medium Back",	
 	"Type": "Medium Back",
@@ -155,6 +166,7 @@
   },	
 {			
 	"id": "162(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-162(B)",
 	"Name": "Lattice Medium Back",	
 	"Type": "Medium Back",
@@ -169,6 +181,7 @@
   },	
 {			
 	"id": "163(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-163(B)",
 	"Name": "Posture High Back",	
 	"Type": "High Back",
@@ -183,6 +196,7 @@
   },	
 {			
 	"id": "163(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-163(G)",
 	"Name": "Posture High Back",	
 	"Type": "High Back",
@@ -197,6 +211,7 @@
   },	
 {			
 	"id": "163(W)",
+	"Tag": "New",
 	"ModelNo": "RSC-163(W)",
 	"Name": "Posture High Back",	
 	"Type": "High Back",
@@ -210,7 +225,8 @@
 	"Url": "/images/rsc163w.png"
   },	
 {			
-	"id": "164(B)",			
+	"id": "164(B)",
+	"Tag": "New",
 	"ModelNo": "RSC-164(B)",
 	"Name": "Posture Medium Back",	
 	"Type": "Medium Back",
@@ -224,7 +240,8 @@
 	"Url": "/images/rsc164b.png"
   },	
 {			
-	"id": "164(G)",				
+	"id": "164(G)",
+	"Tag": "New",
 	"ModelNo": "RSC-164(G)",
 	"Name": "Posture Medium Back",	
 	"Type": "Medium Back",
@@ -238,7 +255,8 @@
 	"Url": "/images/rsc164g.png"
   },	
 {			
-	"id": "164(W)",				
+	"id": "164(W)",
+	"Tag": "New",
 	"ModelNo": "RSC-164(W)",
 	"Name": "Posture Medium Back",	
 	"Type": "Medium Back",
