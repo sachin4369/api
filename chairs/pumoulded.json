@@ -55,27 +55,27 @@
     "Id": "Dash",
     "Tag": "Common",
     "ModelNo": "Dash High Back",
-    "Name": "Dart High Back",
+    "Name": "Dash High Back",
     "Type": "High Back PU Moulded Chair",
     "Headrest": "Fix",
     "Mechanism": "Multilock Knee Tilt Mechanism",
     "Armrest": "Chrome & Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Dash HB.jpg"
+    "Url": "/images/DashHB.jpg"
   },
   {
     "Id": "Dash",
     "Tag": "Common",
     "ModelNo": "Dash Medium Back",
-    "Name": "Dart Medium Back",
+    "Name": "Dash Medium Back",
     "Type": "Medium Back PU Moulded Chair",
     "Headrest": "Fix",
     "Mechanism": "Multilock Knee Tilt Mechanism",
     "Armrest": "Chrome & Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Dash MB.jpg"
+    "Url": "/images/DashMB.jpg"
   },
   {
     "Id": "Ella",
@@ -88,7 +88,7 @@
     "Armrest": "Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Ella HB.jpg"
+    "Url": "/images/EllaHB.jpg"
   },
   {
     "Id": "Ella",
@@ -101,7 +101,7 @@
     "Armrest": "Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Ella MB.jpg"
+    "Url": "/images/EllaMB.jpg"
   },
   {
     "Id": "Elba",
@@ -140,7 +140,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Flair HB.jpg"
+    "Url": "/images/FlairHB.jpg"
   },
   {
     "Id": "Flair",
@@ -153,7 +153,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Flair MB.jpg"
+    "Url": "/images/FlairMB.jpg"
   },
   {
     "Id": "Fuse",
@@ -192,7 +192,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Halo HB.jpg"
+    "Url": "/images/HaloHB.jpg"
   },
   {
     "Id": "Halo",
@@ -205,7 +205,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Halo MB.jpg"
+    "Url": "/images/HaloMB.jpg"
   },
   {
     "Id": "Gem",
@@ -231,7 +231,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Glimp HB.jpg"
+    "Url": "/images/GlimpHB.jpg"
   },
   {
     "Id": "Glimp",
@@ -244,7 +244,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Glimp MB.jpg"
+    "Url": "/images/GlimpMB.jpg"
   },
   {
     "Id": "Vio",
@@ -257,7 +257,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Vio Revolving.jpg"
+    "Url": "/images/VioRevolving.jpg"
   },
   {
     "Id": "Vio",
@@ -270,7 +270,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Metal Powder Coated Stand",
-    "Url": "/images/Vio Cafe.jpg"
+    "Url": "/images/VioCafe.jpg"
   },
   {
     "Id": "Hype",
@@ -283,7 +283,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Hype Revolving.jpg"
+    "Url": "/images/HypeRevolving.jpg"
   },
   {
     "Id": "Hype",
@@ -296,7 +296,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Stand",
-    "Url": "/images/Hype Cafe.jpg"
+    "Url": "/images/HypeCafe.jpg"
   },
   {
     "Id": "Togo",
@@ -309,7 +309,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Togo Revolving.jpg"
+    "Url": "/images/TogoRevolving.jpg"
   },
   {
     "Id": "Togo",
@@ -322,7 +322,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Metal Powder Coated Stand",
-    "Url": "/images/Togo Cafe.jpg"
+    "Url": "/images/TogoCafe.jpg"
   },
   {
     "Id": "Tiva",
@@ -335,7 +335,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Tiva Revolving.jpg"
+    "Url": "/images/TivaRevolving.jpg"
   },
   {
     "Id": "Tiva",
@@ -348,7 +348,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Metal Powder Coated Stand",
-    "Url": "/images/Tiva Cafe.jpg"
+    "Url": "/images/TivaCafe.jpg"
   },
   {
     "Id": "Jolt",
@@ -374,7 +374,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Riva Revolving.jpg"
+    "Url": "/images/RivaRevolving.jpg"
   },
   {
     "Id": "Riva",
@@ -387,7 +387,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Metal Powder Coated Stand",
-    "Url": "/images/Riva Cafe.jpg"
+    "Url": "/images/RivaCafe.jpg"
   },
   {
     "Id": "Siesta",
@@ -400,7 +400,7 @@
     "Armrest": "Cousion",
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/Siesta Revolving.jpg"
+    "Url": "/images/SiestaRevolving.jpg"
   },
   {
     "Id": "Siesta",
@@ -413,7 +413,7 @@
     "Armrest": "Cousion",
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Metal Powder Coated Rectangle Stand",
-    "Url": "/images/Siesta Rectangle Pipe.jpg"
+    "Url": "/images/SiestaRectanglePipe.jpg"
   },
   {
     "Id": "Siesta",
@@ -426,7 +426,7 @@
     "Armrest": "Cousion",
     "Fabric": "Fabric Upholstery",
     "BaseMaterial": "Metal Powder Coated Round Stand",
-    "Url": "/images/Siesta Round Pipe.jpg"
+    "Url": "/images/SiestaRoundPipe.jpg"
   },
   {
     "Id": "Lobo",
