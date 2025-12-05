@@ -405,8 +405,8 @@
   {
     "Id": "Siesta",
     "Tag": "Common",
-    "ModelNo": "Siesta",
-    "Name": "Siesta",
+    "ModelNo": "Siesta with Rectangle Stand",
+    "Name": "Siesta  with Rectangle Stand",
     "Type": "Cafe PU Moulded Chair",
     "Headrest": "Fix",
     "Mechanism": "N.A.",
@@ -418,8 +418,8 @@
   {
     "Id": "Siesta",
     "Tag": "Common",
-    "ModelNo": "Siesta",
-    "Name": "Siesta",
+    "ModelNo": "Siesta  with Round Stand",
+    "Name": "Siesta  with Round Stand",
     "Type": "Cafe PU Moulded Chair",
     "Headrest": "Fix",
     "Mechanism": "N.A.",
