@@ -62,7 +62,7 @@
     "Armrest": "Chrome & Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/DashHB.jpg"
+    "Url": "/images/DashHb.jpg"
   },
   {
     "Id": "Dash",
@@ -75,7 +75,7 @@
     "Armrest": "Chrome & Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/DashMB.jpg"
+    "Url": "/images/DashMb.jpg"
   },
   {
     "Id": "Ella",
@@ -88,7 +88,7 @@
     "Armrest": "Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/EllaHB.jpg"
+    "Url": "/images/EllaHb.jpg"
   },
   {
     "Id": "Ella",
@@ -101,7 +101,7 @@
     "Armrest": "Cushion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/EllaMB.jpg"
+    "Url": "/images/EllaMb.jpg"
   },
   {
     "Id": "Elba",
@@ -140,7 +140,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/FlairHB.jpg"
+    "Url": "/images/FlairHb.jpg"
   },
   {
     "Id": "Flair",
@@ -153,7 +153,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/FlairMB.jpg"
+    "Url": "/images/FlairMb.jpg"
   },
   {
     "Id": "Fuse",
@@ -192,7 +192,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/HaloHB.jpg"
+    "Url": "/images/HaloHb.jpg"
   },
   {
     "Id": "Halo",
@@ -205,7 +205,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/HaloMB.jpg"
+    "Url": "/images/HaloMb.jpg"
   },
   {
     "Id": "Gem",
@@ -231,7 +231,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/GlimpHB.jpg"
+    "Url": "/images/GlimpHb.jpg"
   },
   {
     "Id": "Glimp",
@@ -244,7 +244,7 @@
     "Armrest": "Cousion",
     "Fabric": "Leatherette Upholstery",
     "BaseMaterial": "Chrome Plated Base",
-    "Url": "/images/GlimpMB.jpg"
+    "Url": "/images/GlimpMb.jpg"
   },
   {
     "Id": "Vio",
