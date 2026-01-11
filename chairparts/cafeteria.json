@@ -117,58 +117,6 @@
     "Url": "/images/Oval-Sigma.png"
   },
 {
-    "Id": "Blaze",
-    "Tag": "Common",
-    "ModelNo": "Blaze",
-    "Name": "Blaze",
-    "Type": "Cafeteria Table",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "FrameMaterial": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Blaze.png"
-  },
-{
-    "Id": "Jolly",
-    "Tag": "Common",
-    "ModelNo": "Jolly",
-    "Name": "Jolly",
-    "Type": "Cafeteria Table",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "FrameMaterial": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Jolly.png"
-  },
-{
-    "Id": "Laurel",
-    "Tag": "Common",
-    "ModelNo": "Laurel",
-    "Name": "Laurel",
-    "Type": "Cafeteria Table",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "FrameMaterial": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Laurel.png"
-  },
-{
-    "Id": "Crown",
-    "Tag": "Common",
-    "ModelNo": "Crown",
-    "Name": "Crown",
-    "Type": "Cafeteria Table",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "FrameMaterial": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Crown.png"
-  },
-{
     "Id": "Flora-Alpha",
     "Tag": "Common",
     "ModelNo": "Flora-Alpha",
@@ -962,19 +910,6 @@
     "Url": "/images/Excel-Zeta.png"
   },
   {
-    "Id": "Excel4",
-    "Tag": "Common",
-    "ModelNo": "Excel-Lounge",
-    "Name": "Excel-Lounge",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "Leatherite Upholstery",
-    "HeightAdjuster": "N.A.",
-    "FrameMaterial": "Metal Powder Coated Stand",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Lounge.png"
-  },
-  {
     "Id": "Excel5",
     "Tag": "Common",
     "ModelNo": "Excel-Writing WC",
@@ -1312,17 +1247,6 @@
     "Url": "/images/Camry-AlphaA.png"
   },
   {
-    "Id": "Dytto",
-    "Tag": "Common",
-    "ModelNo": "Dytto Lounge",
-    "Name": "Dytto Lounge",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/Dytto-Lounge.png"
-  },
-  {
     "Id": "Dytto1",
     "Tag": "Common",
     "ModelNo": "Dytto-Alpha",
@@ -1525,19 +1449,6 @@
     "Url": "/images/WebwithoutArms.png"
   },
   {
-    "Id": "Dollar",
-    "Tag": "Common",
-    "ModelNo": "Dollar-Lounge",
-    "Name": "Dollar-Lounge",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "HeightAdjuster": "N.A.",
-    "FrameMaterial": "Metal Chrome Frame",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dollar-Lounge.png"
-  },
-  {
     "Id": "Dollar1",
     "Tag": "Common",
     "ModelNo": "Dollar-Writing",
@@ -1562,19 +1473,6 @@
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dollar-Metal.png"
-  },
-  {
-    "Id": "Megna",
-    "Tag": "Common",
-    "ModelNo": "Megna-Lounge",
-    "Name": "Megna-Lounge",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "HeightAdjuster": "N.A.",
-    "FrameMaterial": "Metal Chrome Frame",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-Lounge.png"
   },
   {
     "Id": "Megna1",
