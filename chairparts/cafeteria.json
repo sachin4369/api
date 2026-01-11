@@ -884,19 +884,6 @@
     "Url": "/images/Excel-Beta.png"
   },
   {
-    "Id": "Excel2",
-    "Tag": "Common",
-    "ModelNo": "Excel-Writing",
-    "Name": "Excel-Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "Leatherite Upholstery",
-    "HeightAdjuster": "N.A.",
-    "FrameMaterial": "Metal Chrome Frame",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-Writing.png"
-  },
-  {
     "Id": "Excel3",
     "Tag": "Common",
     "ModelNo": "Excel-Zeta",
@@ -908,19 +895,6 @@
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Excel-Zeta.png"
-  },
-  {
-    "Id": "Excel5",
-    "Tag": "Common",
-    "ModelNo": "Excel-Writing WC",
-    "Name": "Excel-Writing WC",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "Size": "Standard",
-    "FrameMaterial": "Metal Chrome Frame",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Excel-WritingWC.png"
   },
   {
     "Id": "Excel6",
@@ -1079,19 +1053,6 @@
     "Url": "/images/Any-Metal.png"
   },
   {
-    "Id": "Casper",
-    "Tag": "Common",
-    "ModelNo": "Casper Writing",
-    "Name": "Casper Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "N.A.",
-    "Fabric": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/Casper-Writing.png"
-  },
-  {
     "Id": "Casper1",
     "Tag": "Common",
     "ModelNo": "Casper Beta",
@@ -1142,18 +1103,6 @@
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Casper-Zeta.png"
-  },
-  {
-    "Id": "Aqua",
-    "Tag": "Common",
-    "ModelNo": "Aqua Writing",
-    "Name": "Aqua Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "N.A.",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/Aqua-Writing.png"
   },
   {
     "Id": "Aqua1",
@@ -1278,17 +1227,6 @@
     "FrameMaterial": "Metal Powder Coated Frame",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dytto-Metal.png"
-  },
-  {
-    "Id": "Dytto4",
-    "Tag": "Common",
-    "ModelNo": "Dytto Writing",
-    "Name": "Dytto Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "FrameMaterial": "Metal Chrome Frame",
-    "Url": "/images/Dytto-Writing.png"
   },
   {
     "Id": "Dytto5",
@@ -1449,19 +1387,6 @@
     "Url": "/images/WebwithoutArms.png"
   },
   {
-    "Id": "Dollar1",
-    "Tag": "Common",
-    "ModelNo": "Dollar-Writing",
-    "Name": "Dollar-Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "HeightAdjuster": "N.A.",
-    "FrameMaterial": "Metal Chrome Frame",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Dollar-Writing.png"
-  },
-  {
     "Id": "Dollar2",
     "Tag": "Common",
     "ModelNo": "Dollar-Metal",
@@ -1473,19 +1398,6 @@
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Dollar-Metal.png"
-  },
-  {
-    "Id": "Megna1",
-    "Tag": "Common",
-    "ModelNo": "Megna-Writing",
-    "Name": "Megna-Writing",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "N.A.",
-    "HeightAdjuster": "N.A.",
-    "Frame Material": "Metal Powder Coated Frame",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Megna-Writing.png"
   },
   {
     "Id": "Megna2",
