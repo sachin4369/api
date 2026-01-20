@@ -9,13 +9,13 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/vertex-hb-grey.png"
   },
   {
-    "id": "Vertex",
+    "id": "Vertex High Back",
     "Tag": "High Back Mesh",
     "ModelNo": "Vertex High Back",
     "Name": "Vertex High Back",
@@ -24,13 +24,13 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Vertex-hb-Black.png"
   },
   {
-    "id": "Vertex",
+    "id": "Vertex Medium Back",
     "Tag": "Medium Back Mesh",
     "ModelNo": "Vertex Medium Back",
     "Name": "Vertex Medium Back",
@@ -39,7 +39,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Vertex-Mb-Grey.png"
@@ -54,13 +54,13 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Vertex-Mb-Black.png"
   },
   {
-    "id": "Cortex",
+    "id": "Cortex High Back Net",
     "Tag": "Cortex High Back Net",
     "ModelNo": "Cortex High Back Net",
     "Name": "Cortex High Back",
@@ -69,13 +69,13 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Cortex-hb-Grey-net.png"
   },
   {
-    "id": "Cortex Net",
+    "id": "Cortex Medium Back Net",
     "Tag": "Cortex Medium Back Net",
     "ModelNo": "Cortex Medium Back Net",
     "Name": "Cortex Medium Back",
@@ -84,13 +84,13 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Cortex-Mb-Black.png"
   },
   {
-    "id": "Cortex Fabric",
+    "id": "Cortex High Back Fabric",
     "Tag": "Cortex High Back Fabric",
     "ModelNo": "Cortex High Back Fabric",
     "Name": "Cortex Medium Back",
@@ -99,13 +99,13 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Cortex-hb-grey-fabric.png"
   },
   {
-    "id": "Cortex",
+    "id": "Cortex Medium back Fabric",
     "Tag": "Cortex Medium back Fabric",
     "ModelNo": "Cortex Medium Back Fabric",
     "Name": "Cortex Medium Back",
@@ -114,7 +114,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Cortex-Mb-Black-Fabric.png"
@@ -129,7 +129,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Hb-Grey-Seat-121.png"
@@ -144,7 +144,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Hb-Black-Seat-121.png"
@@ -159,7 +159,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Mb-Grey-Seat-121-A.png"
@@ -174,7 +174,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Mb-Black-Seat-121-A.png"
@@ -189,7 +189,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-hb-black-Fabric.png"
@@ -204,7 +204,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-hb-Grey-Fabric.png"
@@ -219,7 +219,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Mb-Grey-Fabric.png"
@@ -234,7 +234,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Mb-Black-Fabric.png"
@@ -249,7 +249,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Posture-Hb-Gry.png"
@@ -264,7 +264,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Posture-Mb-Pista.png"
@@ -278,7 +278,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Cyber-Hb-Pista.png"
@@ -292,7 +292,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Cyber-Mb-Raddish Orange.png"
@@ -306,7 +306,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/20-20 High Back-hb-Pista.png"
@@ -320,7 +320,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/20-20 Mb-Yellow.png"
@@ -334,7 +334,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Hector-Hb-Grey.png"
@@ -348,7 +348,7 @@
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
     "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylone Base",
+    "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Hector Mb-Skyblue.png"
@@ -393,7 +393,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Bonai Hb-Black.png"
+    "Url": "/images/Bonai-Hb-With-Hanger-Black.png"
   },
   {
     "id": "Bonai Medium Back with Hanger",
@@ -407,7 +407,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Bonai Mb-Black.png"
+    "Url": "/images/Bonai Mb-With-Hanger-Black.png"
   },
   {
     "id": "Bonai Medium Back without Hanger",
@@ -421,7 +421,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Bonai Mb-Black.png"
+    "Url": "/images/Bonai Mb-Without-Hanger-Black.png"
   },
   {
     "id": "Matrix-1 High Back",
@@ -481,7 +481,6 @@
   },
   {
     "id": "Delux High Back",
-    "ModelNo": "Delux High Back",
     "Name": "Delux High Back",
     "Type": "High Back",
     "BodyColor": "Grey",
@@ -548,20 +547,6 @@
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Marvel 2 High-Low-Black.png"
-  },
-  {
-    "id": "131(G)",
-    "ModelNo": "RSC - 131(G)",
-    "Name": "Butterfly Medium Back",
-    "Type": "Medium Back",
-    "BodyColor": "Grey",
-    "Mechanism": "Syncro Tilt Mechanism",
-    "Armrest": "Adjustable Arms with PP Pad",
-    "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylon Base",
-    "HeightAdjuster": "Gas Lift",
-    "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/rsc131g.png"
   },
   {
     "id": "Matrix High Back",
