@@ -45,7 +45,7 @@
     "Url": "/images/Vertex-Mb-Grey.png"
   },
   {
-    "id": "Vertex",
+    "id": "Vertex Medium Back",
     "Tag": "Medium Back Mesh",
     "ModelNo": "Vertex Medium Back",
     "Name": "Vertex Medium Back",
@@ -120,7 +120,7 @@
     "Url": "/images/Cortex-Mb-Black-Fabric.png"
   },
   {
-    "id": "Seat Net-121",
+    "id": "Lattice High Back Seat Net-121",
     "Tag": "Lattice High Back Chair",
     "ModelNo": "Lattice High Back Chair",
     "Name": "Lattice High Back Seat Net-121",
@@ -135,7 +135,7 @@
     "Url": "/images/Lattice-Hb-Grey-Seat-121.png"
   },
   {
-    "id": "Seat Net-121",
+    "id": "Lattice High Back Seat Net-121",
     "Tag": "Lattice High Back Chair",
     "ModelNo": "Lattice High Back Chair",
     "Name": "Lattice High Back Seat Net-121",
@@ -150,7 +150,7 @@
     "Url": "/images/Lattice-Hb-Black-Seat-121.png"
   },
   {
-    "id": "Seat Net-121,A",
+    "id": "Lattice Medium Back Seat Net-121",
     "Tag": "Lattice Medium Back Chair",
     "ModelNo": "Lattice Medium Back Chair",
     "Name": "Lattice Medium Back Seat Net-121",
@@ -414,14 +414,28 @@
     "ModelNo": "Bonai Medium Back without Hanger",
     "Name": "Bonai Medium Back without Hanger",
     "Type": "Medium Back",
-    "BodyColor": "Black",
+    "BodyColor": "Sky Blue",
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PP Pad",
     "Fabric": "Net Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Bonai Mb-Without-Hanger-Black.png"
+    "Url": "/images/Bonai Mb-Without-Sky Blue.png"
+  },
+  {
+    "id": "Bonai High Back without Hanger",
+    "ModelNo": "Bonai High Back without Hanger",
+    "Name": "Bonai High Back without Hanger",
+    "Type": "High Back",
+    "BodyColor": "Raddish Orange",
+    "Mechanism": "Syncro Tilt Mechanism",
+    "Armrest": "Adjustable Arms with PP Pad",
+    "Fabric": "Net Upholstery",
+    "BaseMaterial": "Nylon Base",
+    "HeightAdjuster": "Gas Lift",
+    "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
+    "Url": "/images/Bonai Hb-Without-Raddish Orange.png"
   },
   {
     "id": "Matrix-1 High Back",
@@ -644,7 +658,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/.805-Mesh-Red-png"
+    "Url": "/images/805-Mesh-Red.png"
   },
   {
     "id": "Mono Mesh",
@@ -812,6 +826,6 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/806 Mesh-806-Brown.png"
+    "Url": "/images/806 Mesh-Brown.png"
   }
 ]
