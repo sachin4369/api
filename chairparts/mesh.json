@@ -237,7 +237,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Lattice-Mb-Black-Fabric.png"
+    "Url": "/images/Lattice-Mb-Black Seat-Fabric.png"
   },
   {
     "id": "Posture High Back",
@@ -386,28 +386,28 @@
     "ModelNo": "Bonai High Back with Hanger",
     "Name": "Bonai High Back with Hanger",
     "Type": "High Back",
-    "BodyColor": "Black",
+    "BodyColor": "Blue",
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PP Pad",
     "Fabric": "Net Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Bonai-Hb-With-Hanger-Black.png"
+    "Url": "/images/Bonai-Hb-With-Hanger-Blue.png"
   },
   {
     "id": "Bonai Medium Back with Hanger",
     "ModelNo": "Bonai Medium Back with Hanger",
     "Name": "Bonai Medium Back with Hanger",
     "Type": "Medium Back",
-    "BodyColor": "Black",
+    "BodyColor": "Raddish Orange",
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PP Pad",
     "Fabric": "Net Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Bonai Mb-With-Hanger-Black.png"
+    "Url": "/images/Bonai Mb-With-Hanger-Raddish-Orange.png"
   },
   {
     "id": "Bonai Medium Back without Hanger",
@@ -609,28 +609,28 @@
     "ModelNo": "Boom High Back",
     "Name": "Boom High Back",
     "Type": "High Back",
-    "BodyColor": "Black",
+    "BodyColor": "Sky Blue",
     "Mechanism": "Tilting Mechanism",
     "Armrest": "PP Arms",
     "Fabric": "Net Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Boom Hb-Black.png"
+    "Url": "/images/Boom Hb-Sky Blue.png"
   },
   {
     "id": "Zig-Zag Mesh",
     "ModelNo": "Zig-Zag Mesh",
     "Name": "Zig-Zag Mesh",
     "Type": "Low Back",
-    "BodyColor": "Black",
+    "BodyColor": "Red",
     "Mechanism": "Tilting Mechanism",
     "Armrest": "PP Arms",
     "Fabric": "Net Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Zig-Zag Black.png"
+    "Url": "/images/Zig-Zag Red.png"
   },
   {
     "id": "804 Mesh",
@@ -812,7 +812,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/803-Mesh-803-Black.png"
+    "Url": "/images/803-Mesh-Black.png"
   },
   {
     "id": "806 Mesh",
