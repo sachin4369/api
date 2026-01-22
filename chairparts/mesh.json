@@ -90,11 +90,11 @@
     "Url": "/images/Cortex-Mb-Black.png"
   },
   {
-    "id": "Cortex High Back Fabric",
-    "Tag": "Cortex High Back Fabric",
-    "ModelNo": "Cortex High Back Fabric",
-    "Name": "Cortex Medium Back",
-    "Type": "Medium Back",
+    "id": "Cortex High Back Seat Fabric",
+    "Tag": "Cortex High Back Seat Fabric",
+    "ModelNo": "Cortex High Back Seat Fabric",
+    "Name": "Cortex High Back",
+    "Type": "High Back",
     "BodyColor": "Grey",
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PU Pad",
@@ -151,24 +151,9 @@
   },
   {
     "id": "Lattice Medium Back Seat Net-121",
-    "Tag": "Lattice Medium Back Chair",
-    "ModelNo": "Lattice Medium Back Chair",
+    "Tag": "Lattice Medium Back Seat Net Chair",
+    "ModelNo": "Lattice Medium Back Seat Net Chair",
     "Name": "Lattice Medium Back Seat Net-121",
-    "Type": "Medium Back",
-    "BodyColor": "Grey",
-    "Mechanism": "Syncro Tilt Mechanism",
-    "Armrest": "Adjustable Arms with PU Pad",
-    "Fabric": "Net Upholstery",
-    "BaseMaterial": "Nylon Base",
-    "HeightAdjuster": "Gas Lift",
-    "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Lattice-Mb-Grey-Seat-121-A.png"
-  },
-  {
-    "id": "Seat Net-121,A",
-    "Tag": "Lattice Medium Back Chair",
-    "ModelNo": "Lattice Medium Back Chair",
-    "Name": "Lattice Medium Back Seat Net-121-A",
     "Type": "Medium Back",
     "BodyColor": "Black",
     "Mechanism": "Syncro Tilt Mechanism",
@@ -178,6 +163,21 @@
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/Lattice-Mb-Black-Seat-121-A.png"
+  },
+  {
+    "id": "Seat Net-121,A",
+    "Tag": "Lattice Medium Back Seat Net Chair",
+    "ModelNo": "Lattice Medium Back Chair",
+    "Name": "Lattice Medium Back Seat Net-121-A",
+    "Type": "Medium Back",
+    "BodyColor": "Grey",
+    "Mechanism": "Syncro Tilt Mechanism",
+    "Armrest": "Adjustable Arms with PU Pad",
+    "Fabric": "Net Upholstery",
+    "BaseMaterial": "Nylon Base",
+    "HeightAdjuster": "Gas Lift",
+    "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
+    "Url": "/images/Lattice-Mb-Grey-Seat-121-A.png"
   },
   {
     "id": "Lattice High Back Seat Fabric",
@@ -323,7 +323,7 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/20-20 Mb-Yellow.png"
+    "Url": "/images/20-20Mb-Yellow.png"
   },
   {
     "id": "Hector High Back",
@@ -442,14 +442,14 @@
     "ModelNo": "Matrix-1 High Back",
     "Name": "Matrix-1 High Back",
     "Type": "High Back",
-    "BodyColor": "Sky Blue",
+    "BodyColor": "Red",
     "Mechanism": "Syncro Tilt Mechanism",
     "Armrest": "Adjustable Arms with PP Pad",
     "Fabric": "Net Upholstery",
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/Matrix-1-Hb-Sky Blue.png"
+    "Url": "/images/Matrix-1 Hb-Red.png"
   },
   {
     "id": "Matrix-1 Medium Back",
@@ -826,6 +826,6 @@
     "BaseMaterial": "Nylon Base",
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
-    "Url": "/images/806 Mesh-Brown.png"
+    "Url": "/images/806-Mesh-Brown.png"
   }
 ]
