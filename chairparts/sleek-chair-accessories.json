@@ -1,0 +1,32 @@
+[
+  {
+    "id": "RJ-716",
+    "Tag": "Office Chair",
+    "ModelNo": "RJ-716",
+    "Name": "High Back Office Chair",
+    "Type": "Revolving Chair",
+    "BodyColor": "Grey",
+    "Mechanism": "Tilting Mechanism",
+    "Armrest": "Fixed Armrest",
+    "Fabric": "Premium Fabric",
+    "BaseMaterial": "Chrome Base",
+    "HeightAdjuster": "Gas Lift",
+    "ColorOptions": "Grey, Black",
+    "Url": "/images/rj-716.png"
+  },
+  {
+    "id": "RJ-717",
+    "Tag": "Office Chair",
+    "ModelNo": "RJ-717",
+    "Name": "Medium Back Office Chair",
+    "Type": "Revolving Chair",
+    "BodyColor": "Grey",
+    "Mechanism": "Tilting Mechanism",
+    "Armrest": "Fixed Armrest",
+    "Fabric": "Premium Fabric",
+    "BaseMaterial": "Chrome Base",
+    "HeightAdjuster": "Gas Lift",
+    "ColorOptions": "Grey, Black",
+    "Url": "/images/rj-717.png"
+  }
+]
