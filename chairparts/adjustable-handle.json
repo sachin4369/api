@@ -42,7 +42,7 @@
     "BaseMaterial": "Virgin Plastic",
     "HeightAdjuster": "Yes",
     "ColorOptions": "Canery yellow,Reddish,Navy Blue,White,Grey",
-    "Url": "/images/3d-adjustable-handle-rj-194.png"
+    "Url": "/images/RJ-194.png"
   },
   {
     "id": "RJ-195",
@@ -57,7 +57,7 @@
     "BaseMaterial": "PU",
     "HeightAdjuster": "No",
     "ColorOptions": "Canary Yellow, Reddish, Pista Tinge, Grey",
-    "Url": "/images/3d-adjustable-handle-rj-195.png"
+    "Url": "/images/RJ-195.png"
   },
   {
     "id": "RJ-281",
