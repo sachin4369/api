@@ -1,6 +1,6 @@
 [
   {
-    "Id": "Oval-Alpha Shell",
+    "id": "Oval-Alpha Shell",
     "Tag": "Oval Shell",
     "ModelNo": "Oval-Alpha Shell",
     "Name": "Oval-Alpha Shell",
@@ -13,7 +13,7 @@
     "Url": "/images/Oval-Alpha shell.png"
   },
   {
-    "Id": "Flora- Beta With Cusion Shell",
+    "id": "Flora- Beta With Cusion Shell",
     "Tag": "Flora- Beta With Cusion Shell",
     "ModelNo": "Flora- Beta With Cusion Shell",
     "Name": "Flora-Beta",
@@ -26,7 +26,7 @@
     "Url": "/images/Flora- Beta With Cusion Shell.png"
   },
   {
-    "Id": "Flora- Alpha Without Cusion Shell",
+    "id": "Flora- Alpha Without Cusion Shell",
     "Tag": "Flora-Alpha Without Cusion Shell",
     "ModelNo": "Flora-Alpha Without Cusion Shell",
     "Name": "Flora-Alpha (wc)",
@@ -39,7 +39,7 @@
     "Url": "/images/Flora- Alpha Without Cusion Shell.png"
   },
   {
-    "Id": "Catley With Cussion Shell",
+    "id": "Catley With Cussion Shell",
     "Tag": "Catley With Cussion Shell",
     "ModelNo": "Catley With Cussion Shell",
     "Name": "Catley With Cussion Shell",
@@ -52,7 +52,7 @@
     "Url": "/images/Catley With Cussion Shell.png"
   },
   {
-    "Id": "Catley Without Cussion Shell",
+    "id": "Catley Without Cussion Shell",
     "Tag": "Catley Without Cussion Shell",
     "ModelNo": "Catley Without Cussion Shell",
     "Name": "Catley Without Cussion Shell",
@@ -65,7 +65,7 @@
     "Url": "/images/Catley Without Cussion Shell.png"
   },
   {
-    "Id": "GraceWith Cussion Shell",
+    "id": "GraceWith Cussion Shell",
     "Tag": "GraceWith Cussion Shell",
     "ModelNo": "GraceWith Cussion Shell",
     "Name": "GraceWith Cussion Shell",
@@ -78,7 +78,7 @@
     "Url": "/images/GraceWith Cussion Shell.png"
   },
   {
-    "Id": "GraceWithout Cussion Shell",
+    "id": "GraceWithout Cussion Shell",
     "Tag": "GraceWithout Cussion Shell",
     "ModelNo": "GraceWithout Cussion Shell",
     "Name": "GraceWithout Cussion Shell",
@@ -91,7 +91,7 @@
     "Url": "/images/GraceWithout Cussion Shell.png"
   },
   {
-    "Id": "Turbo Metal- b Shell",
+    "id": "Turbo Metal- b Shell",
     "Tag": "Turbo Metal- b Shell",
     "ModelNo": "Turbo Metal- b Shell",
     "Name": "Turbo Metal- b Shell",
@@ -104,9 +104,9 @@
     "Url": "/images/Turbo Metal- b Shell.png"
   },
   {
-    "Id": "Orbit Alpha Shell",
-    "Tag": "Orbit Alpha Shell",
-    "ModelNo": "Orbit Alpha Shell",
+    "id": "Orbit Metal Shell",
+    "Tag": "Orbit Metal Shell",
+    "ModelNo": "Orbit Metal Shell",
     "Name": "Orbit Alpha Shell",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
@@ -114,10 +114,10 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orbit Alpha Shell.png"
+    "Url": "/images/Orbit Metal Shell.png"
   },
   {
-    "Id": "Sparrow –Sigma A Shell",
+    "id": "Sparrow –Sigma A Shell",
     "Tag": "Sparrow –Sigma A Shell",
     "ModelNo": "Sparrow –Sigma A Shell",
     "Name": "Sparrow –Sigma A Shell",
@@ -128,5 +128,18 @@
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Sparrow –Sigma A Shell.png"
+  },
+  {
+    "id": "Excel-MetalA- Shell",
+    "Tag": "Excel-MetalA- Shell",
+    "ModelNo": "Excel-MetalA- Shell",
+    "Name": "Excel-MetalA- Shell",
+    "Type": "Cafeteria Visitor Chair",
+    "Material": "Polypropylene",
+    "ProductCareInstructions": "Wipe Clean",
+    "Fabric": "N.A.",
+    "FrameMaterial": "Metal Stand",
+    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
+    "Url": "/images/Excel-MetalA- Shell.png"
   }
 ]
