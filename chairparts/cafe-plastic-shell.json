@@ -23,7 +23,7 @@
     "Fabric": "Premium Fabric Cushion",
     "FrameMaterial": "PP Leg",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ Flora- Beta With Cusion Shell.png"
+    "Url": "/images/Flora- Beta With Cusion Shell.png"
   },
   {
     "Id": "Flora- Alpha Without Cusion Shell",
@@ -36,7 +36,7 @@
     "Fabric": "N.A",
     "FrameMaterial": "PP Leg",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ Flora- Alpha Without Cusion Shell. png"
+    "Url": "/images/Flora- Alpha Without Cusion Shell. png"
   },
   {
     "Id": "Catley With Cussion Shell",
@@ -49,7 +49,7 @@
     "Fabric": "Premium Fabric Cushion",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ Catley With Cussion Shell. png"
+    "Url": "/images/Catley With Cussion Shell. png"
   },
   {
     "Id": "Catley Without Cussion Shell",
@@ -75,7 +75,7 @@
     "Fabric": "Premium Fabric Cushion",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ GraceWith Cussion Shell.png"
+    "Url": "/images/GraceWith Cussion Shell.png"
   },
   {
     "Id": "GraceWithout Cussion Shell",
@@ -101,7 +101,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ Turbo Metal- b Shell.png"
+    "Url": "/images/Turbo Metal- b Shell.png"
   },
   {
     "Id": "Orbit Alpha Shell",
@@ -114,7 +114,7 @@
     "Fabric": "N.A.",
     "FrameMaterial": "PP Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ Orbit Alpha Shell.png"
+    "Url": "/images/Orbit Alpha Shell.png"
   },
   {
     "Id": "Sparrow –Sigma A Shell",
@@ -127,6 +127,6 @@
     "Fabric": "N.A.",
     "FrameMaterial": "Metal Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/ Sparrow –Sigma A Shell.png"
+    "Url": "/images/Sparrow –Sigma A Shell.png"
   }
 ]
