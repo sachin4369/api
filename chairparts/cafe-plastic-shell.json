@@ -23,7 +23,7 @@
     "Fabric": "Premium Fabric Cushion",
     "FrameMaterial": "PP Leg",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Flora- Beta With Cusion Shell.png"
+    "Url": "/images/Flora-Beta With Cusion Shell.png"
   },
   {
     "id": "Flora- Alpha Without Cusion Shell",
@@ -36,7 +36,7 @@
     "Fabric": "N.A",
     "FrameMaterial": "PP Leg",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Flora- Alpha Without Cusion Shell.png"
+    "Url": "/images/Flora-Alpha Without Cusion Shell.png"
   },
   {
     "id": "Catley With Cussion Shell",
@@ -107,7 +107,7 @@
     "id": "Orbit Metal Shell",
     "Tag": "Orbit Metal Shell",
     "ModelNo": "Orbit Metal Shell",
-    "Name": "Orbit Alpha Shell",
+    "Name": "Orbit Metal Shell",
     "Type": "Cafeteria Visitor Chair",
     "Material": "Polypropylene",
     "ProductCareInstructions": "Wipe Clean",
