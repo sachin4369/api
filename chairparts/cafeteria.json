@@ -232,46 +232,7 @@
     "FrameMaterial": "PP Leg",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Aura-Beta.png"
-  },
-{
-    "Id": "Aura-Metal",
-    "Tag": "Common",
-    "ModelNo": "Aura-Metal",
-    "Name": "Aura-Metal",
-    "Type": "Cafeteria Visitor Chair",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "Leatherite",
-    "FrameMaterial": "Iron Powder Coated Leg",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Aura-Metal.png"
-  },
-{
-    "Id": "Aura-Smart",
-    "Tag": "Common",
-    "ModelNo": "Aura-Smart",
-    "Name": "Aura-Smart",
-    "Type": "Cafeteria Bar Chair",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "Leatherite",
-    "FrameMaterial": "Chrome Platted Base",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Aura-Smart.png"
-  },
-{
-    "Id": "Aura-MetalA",
-    "Tag": "Common",
-    "ModelNo": "Aura-Metal A",
-    "Name": "Aura-Metal A",
-    "Type": "Cafeteria Bar Chair",
-    "Material": "Polypropylene",
-    "ProductCareInstructions": "Wipe Clean",
-    "Fabric": "Leatherite",
-    "FrameMaterial": "Iron Powder Coated Leg",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Aura-MetalA.png"
-  }, 											 	
+  },										 	
 {
     "Id": "Aura-MetalB",
     "Tag": "Common",
@@ -832,19 +793,6 @@
     "Url": "/images/Lara-Alpha.png"
   },
   {
-    "Id": "Lara3",
-    "Tag": "Common",
-    "ModelNo": "Lara Smart",
-    "Name": "Lara Smart",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "Size": "Standard",
-    "HeightAdjuster": "Gas Lift",
-    "FrameMaterial": "Metal Chrome Base",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Lara-Smart.png"
-  },
-  {
     "Id": "Lara4",
     "Tag": "Common",
     "ModelNo": "Lara Gamma",
@@ -962,19 +910,6 @@
     "Url": "/images/Orco-Beta.png"
   },
   {
-    "Id": "Orco2",
-    "Tag": "Common",
-    "ModelNo": "Orco-Smart",
-    "Name": "Orco-Smart",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "Gas Lift",
-    "Fabric": "Leatherite Upholstery",
-    "FrameMaterial": "Metal Chrome Base",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Orco-Smart.png"
-  },
-  {
     "Id": "Orco3",
     "Tag": "Common",
     "ModelNo": "Orco-Gamma",
@@ -999,19 +934,6 @@
     "FrameMaterial": "Metal Powder Coated Stand",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Orco-Metal.png"
-  },
-  {
-    "Id": "Any",
-    "Tag": "Common",
-    "ModelNo": "Any-Smart",
-    "Name": "Any-Smart",
-    "Type": "Cafeteria Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "Gas Lift",
-    "Fabric": "Leatherite Upholstery",
-    "FrameMaterial": "Metal Chrome Base",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Any-Smart.png"
   },
   {
     "Id": "Any1",
@@ -1289,19 +1211,6 @@
     "Url": "/images/Sky-Gamma.png"
   },
   {
-    "Id": "Sky4",
-    "Tag": "Common",
-    "ModelNo": "Sky-Smart",
-    "Name": "Sky-Smart",
-    "Type": "Cafeteria Bar Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "Gas Lift",
-    "Fabric": "Leatherite Upholstery",
-    "FrameMaterial": "Metal Chrome Base",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Sky-Smart.png"
-  },
-  {
     "Id": "Neo",
     "Tag": "Common",
     "ModelNo": "Neo-Alpha",
@@ -1334,31 +1243,6 @@
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Neo-Gamma.png"
-  },
-  {
-    "Id": "Neo3",
-    "Tag": "Common",
-    "ModelNo": "Neo-Smart",
-    "Name": "Neo-Smart",
-    "Type": "Cafeteria Bar Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "Gas Lift",
-    "FrameMaterial": "Metal Chrome Base",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Neo-Smart.png"
-  },
-  {
-    "Id": "Neo4",
-    "Tag": "Common",
-    "ModelNo": "Neo-Sigma",
-    "Name": "Neo-Sigma",
-    "Type": "Cafeteria Bar Chair",
-    "ProductCareInstructions": "Wipe Clean",
-    "HeightAdjuster": "N.A.",
-    "Fabric": "N.A.",
-    "FrameMaterial": "Metal Powder Coated Stand",
-    "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
-    "Url": "/images/Neo-Sigma.png"
   },
   {
     "Id": "Web",
