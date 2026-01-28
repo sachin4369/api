@@ -28,5 +28,35 @@
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Grey, Black",
     "Url": "/images/rj-717.png"
+  },
+  {
+    "id": "RJ-716",
+    "Tag": "Office Chair Armrest",
+    "ModelNo": "RJ-717",
+    "Name": "Fixed Metal Office Chair Armrest",
+    "Type": "Fixed Armrest",
+    "BodyColor": "Black & Silver",
+    "Mechanism": "Fixed (Non-adjustable)",
+    "Armrest": "Yes",
+    "Fabric": "PU Padding (Top)",
+    "BaseMaterial": "Mild Steel Frame",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Black, Grey",
+    "Url": "/images/rj-Sleek716.png"
+  },
+  {
+    "id": "RJ-717",
+    "Tag": "Office Chair Spare Part",
+    "ModelNo": "RJ-717",
+    "Name": "Fixed Metal Armrest with Back Support Frame",
+    "Type": "Fixed Armrest Assembly",
+    "BodyColor": "Black & Chrome",
+    "Mechanism": "Fixed (Non-Adjustable)",
+    "Armrest": "Yes",
+    "Fabric": "PU Cushioned Top",
+    "BaseMaterial": "Mild Steel / Chrome Plated",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Black",
+    "Url": "/images/rj-Sleek717.png"
   }
 ]
