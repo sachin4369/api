@@ -252,7 +252,7 @@
     "BaseMaterial": "Chrome Metal Frame",
     "HeightAdjuster": "N.A",
     "ColorOptions": "Teal, Blue, Grey, Black",
-    "Url": "/images/netted-back/RJ-EvoShell.png"
+    "Url": "/images/RJ-EvoShell.png"
   },
   {
     "id": "RJ-370",
@@ -267,7 +267,7 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black",
-    "Url": "/images/netted-back/RJ-371.png"
+    "Url": "/images/RJ-371.png"
   },
   {
     "id": "RJ-371",
@@ -282,7 +282,7 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black, Grey",
-    "Url": "/images/netted-back/RJ-372.png"
+    "Url": "/images/RJ-372.png"
   },
   {
     "id": "RJ-372",
@@ -297,6 +297,6 @@
     "BaseMaterial": "Chrome Metal Frame",
     "HeightAdjuster": "NA",
     "ColorOptions": "Teal, Blue, Grey, Black",
-    "Url": "/images/netted-back/RJ-EvoShell.png"
+    "Url": "/images/RJ-EvoShell.png"
   }
 ]
