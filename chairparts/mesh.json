@@ -840,5 +840,35 @@
     "HeightAdjuster": "Gas Lift",
     "ColorOptions": "Black, Blue, Yellow, Orange, Sky Blue, Brown, Grey, Red, Green",
     "Url": "/images/806-Mesh-Brown.png"
+  },
+  {
+    "id": "Mini Visitor Mesh Back Chair",
+    "Tag": "Mini Visitor",
+    "ModelNo": "Mini Visitor Mesh Back Chair",
+    "Name": "Mini Visitor Mesh Back Chair",
+    "Type": "Visitor Chair",
+    "BodyColor": "Black / Grey / White",
+    "Mechanism": "Fixed",
+    "Armrest": "N.A",
+    "Fabric": "Mesh Back with Cushioned Seat",
+    "BaseMaterial": "Metal (Chrome / Powder Coated)",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Black, Grey, White, Red, Green",
+    "Url": "/images/RJ-MiniVisitorMeshBackChair.png"
+  },
+  {
+    "id": "Mini Visitor Mesh Back Chair",
+    "Tag": "Mini Visitor",
+    "ModelNo": "Mini Visitor Mesh Back Chair",
+    "Name": "Mini Visitor Mesh Back Chair",
+    "Type": "Visitor Chair",
+    "BodyColor": "Black / Grey / White",
+    "Mechanism": "Fixed",
+    "Armrest": "N.A",
+    "Fabric": "Mesh Back with Cushioned Seat",
+    "BaseMaterial": "Crome Frame",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Black, Grey, White, Red, Green",
+    "Url": "/images/RJ-MiniVisitorMeshBackChair.png"
   }
 ]
