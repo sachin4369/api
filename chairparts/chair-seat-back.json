@@ -150,18 +150,18 @@
     "Url": "/images/RJ-372.png"
   },
   {
-    "id": "RJ-372",
-    "Tag": "Student Chair",
-    "ModelNo": "EVO-SHELL",
-    "Name": "Evo Shell Student Chair",
-    "Type": "Fixed Student Chair",
-    "BodyColor": "Black Back with Teal Cushioned Seat",
+    "id": "Mini Visitor Mesh Back Chair",
+    "Tag": "Mini Visitor",
+    "ModelNo": "Mini Visitor Mesh Back Chair",
+    "Name": "Mini Visitor Mesh Back Chair",
+    "Type": "Visitor Chair",
+    "BodyColor": "Black / Grey / White",
     "Mechanism": "Fixed",
-    "Armrest": "Fixed Integrated Armrest",
-    "Fabric": "Fabric Cushioned Seat",
-    "BaseMaterial": "Chrome Metal Frame",
-    "HeightAdjuster": "NA",
-    "ColorOptions": "Teal, Blue, Grey, Black",
-    "Url": "/images/RJ-EvoShell.png"
+    "Armrest": "N.A",
+    "Fabric": "Mesh Back with Cushioned Seat",
+    "BaseMaterial": "Crome Frame",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Black, Grey, White, Red, Green",
+    "Url": "/images/RJ-Mini Visitor Mesh Back.png"
   }
 ]
