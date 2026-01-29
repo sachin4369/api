@@ -115,5 +115,50 @@
     "FrameMaterial": "Metal Chrome Base",
     "ColorOptions": "Black, White, Grey, Orange, Green, Brown, Red, Yellow, Blue, Royal Blue",
     "Url": "/images/Lara-Smart.png"
+  },
+  {
+    "id": "RJ-ORCO-METAL-A",
+    "Tag": "Bar Chair",
+    "ModelNo": "ORCO-METAL-A",
+    "Name": "ORCO-METAL-A",
+    "Type": "Bar Chair / High Stool",
+    "BodyColor": "As per selection",
+    "Mechanism": "Fixed (Non-revolving)",
+    "Armrest": "N.A",
+    "Fabric": "N.A",
+    "BaseMaterial": "Wooden Legs with Metal Footrest Ring",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Green, Yellow, Blue, Orange, Black, White, Grey, Olive, Sky Blue, Brown, Maroon",
+    "Url": "/images/RJ-ORCO-METAL-A.png"
+  },
+  {
+    "id": "RJ-ANY-METAL-A",
+    "Tag": "Bar Chair",
+    "ModelNo": "ANY-METAL-A",
+    "Name": "Any Metal A",
+    "Type": "Bar Chair / High Stool",
+    "BodyColor": "As per selection",
+    "Mechanism": "Fixed (Non-Revolving)",
+    "Armrest": "N.A",
+    "Fabric": "N.A",
+    "BaseMaterial": "Wooden Legs with Metal Footrest Ring",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Black, White, Grey, Green, Blue, Beige, Brown",
+    "Url": "/images/RJ-any-METAL-A.png"
+  },
+  {
+    "id": "RJ-NEO-SIGMA-A",
+    "Tag": "Bar Chair",
+    "ModelNo": "NEO-SIGMA-A",
+    "Name": "Neo Sigma A",
+    "Type": "Bar Chair / High Stool",
+    "BodyColor": "As per selection",
+    "Mechanism": "Fixed (Non-Revolving)",
+    "Armrest": "N.A",
+    "Fabric": "N.A",
+    "BaseMaterial": "Metal Frame with PP Molded Seat",
+    "HeightAdjuster": "N.A",
+    "ColorOptions": "Red, Yellow, Blue, Green, Black, White, Grey",
+    "Url": "/images/RJ-NEO-SIGMA-A.png"
   }
 ]
