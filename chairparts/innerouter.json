@@ -327,7 +327,7 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black",
-    "Url": "/images/rj-362.png"
+    "Url": "/images/RJ-362.png"
   },
   {
     "id": "RJ-363",
@@ -342,7 +342,7 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black",
-    "Url": "/images/rj-363.png"
+    "Url": "/images/RJ-363.png"
   },
   {
     "id": "RJ-364",
@@ -357,7 +357,7 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black",
-    "Url": "/images/rj-364.png"
+    "Url": "/images/RJ-364.png"
   },
   {
     "id": "RJI-361",
@@ -387,7 +387,7 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black",
-    "Url": "/images/rj-365.png"
+    "Url": "/images/RJ-365.png"
   },
   {
     "id": "RJ-366",
@@ -402,6 +402,6 @@
     "BaseMaterial": "Plastic",
     "HeightAdjuster": "NA",
     "ColorOptions": "Black",
-    "Url": "/images/rj-366.png"
+    "Url": "/images/RJ-366.png"
   }
 ]
