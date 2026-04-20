@@ -65,7 +65,7 @@
     "Url": "/images/DashHb.jpg"
   },
   {
-    "Id": "Dash",
+    "Id": "Dash1",
     "Tag": "Common",
     "ModelNo": "Dash Medium Back",
     "Name": "Dash Medium Back",
@@ -91,7 +91,7 @@
     "Url": "/images/EllaHb.jpg"
   },
   {
-    "Id": "Ella",
+    "Id": "Ella1",
     "Tag": "Common",
     "ModelNo": "Ella Medium Back",
     "Name": "Ella Medium Back",
@@ -143,7 +143,7 @@
     "Url": "/images/FlairHb.jpg"
   },
   {
-    "Id": "Flair",
+    "Id": "Flair1",
     "Tag": "Common",
     "ModelNo": "Flair Medium Back",
     "Name": "Flair Medium Back",
@@ -195,7 +195,7 @@
     "Url": "/images/HaloHb.jpg"
   },
   {
-    "Id": "Halo",
+    "Id": "Halo1",
     "Tag": "Common",
     "ModelNo": "Halo Medium Back",
     "Name": "Halo Medium Back",
@@ -234,7 +234,7 @@
     "Url": "/images/GlimpHb.jpg"
   },
   {
-    "Id": "Glimp",
+    "Id": "Glimp1",
     "Tag": "Common",
     "ModelNo": "Glimp Medium Back",
     "Name": "Glimp Medium Back",
@@ -260,7 +260,7 @@
     "Url": "/images/VioRevolving.jpg"
   },
   {
-    "Id": "Vio",
+    "Id": "Vio1",
     "Tag": "Common",
     "ModelNo": "Vio",
     "Name": "Vio",
@@ -286,7 +286,7 @@
     "Url": "/images/HypeRevolving.jpg"
   },
   {
-    "Id": "Hype",
+    "Id": "Hype1",
     "Tag": "Common",
     "ModelNo": "Hype",
     "Name": "Hype",
@@ -312,7 +312,7 @@
     "Url": "/images/TogoRevolving.jpg"
   },
   {
-    "Id": "Togo",
+    "Id": "Togo1",
     "Tag": "Common",
     "ModelNo": "Togo",
     "Name": "Togo",
@@ -338,7 +338,7 @@
     "Url": "/images/TivaRevolving.jpg"
   },
   {
-    "Id": "Tiva",
+    "Id": "Tiva1",
     "Tag": "Common",
     "ModelNo": "Tiva",
     "Name": "Tiva",
@@ -377,7 +377,7 @@
     "Url": "/images/RivaRevolving.jpg"
   },
   {
-    "Id": "Riva",
+    "Id": "Riva1",
     "Tag": "Common",
     "ModelNo": "Riva",
     "Name": "Riva",
@@ -403,7 +403,7 @@
     "Url": "/images/SiestaRevolving.jpg"
   },
   {
-    "Id": "Siesta",
+    "Id": "Siesta1",
     "Tag": "Common",
     "ModelNo": "Siesta with Rectangle Stand",
     "Name": "Siesta  with Rectangle Stand",
@@ -416,7 +416,7 @@
     "Url": "/images/SiestaRectanglePipe.jpg"
   },
   {
-    "Id": "Siesta",
+    "Id": "Siesta2",
     "Tag": "Common",
     "ModelNo": "Siesta  with Round Stand",
     "Name": "Siesta  with Round Stand",
